@@ -1,0 +1,75 @@
+---
+title: "ABC Segmentation Report (Beta Version)"
+author: "CCDS Publicshed: June 30, 2015"
+date: 'NATIONAL - ALL PRODUCTS'
+output: pdf_document
+---
+install.packages("alluvial")
+
+```{r echo=FALSE, warning=FALSE, message=FALSE, results='hide'}
+# Setup working directory
+#setwd("C:\\Works\\Francis R Repository\\R_ABC_ALL")
+
+library(tidyr)
+library(plyr)
+library(dplyr)
+library(lubridate)
+
+library(ggplot2)
+library(alluvial)
+library(scales)
+library(grid)
+
+library(knitr)
+
+source("R\\Load.R")
+source("C:\\Works\\Francis R Repository\\R_ABC_ALL\\R\\Make_abc.R")
+```
+
+##Executive Summary
+
+According to the TMS of 2014, the sales value of Anhui province was 2,052,875 thousand (CNY). The total sales and growth rate of A, B, C segments in 2014 was 1,641,911, 308,283, 102,680 thousand (CNY) and 14.4%, 14.5% and 14.4% respectively. 
+
+##1. Province Segmentation Review
+```{r fig.width=10, fig.height=8, echo=FALSE, warning=FALSE, message=FALSE}
+source("C:\\Works\\Francis R Repository\\R_ABC_ALL\\R\\Province Segment.R")
+```
+
+According to the TMS of 2014, the sales value of Anhui province was 2,052,875 thousand (CNY). The total sales and growth rate of A, B, C segments in 2014 was 1,641,911, 308,283, 102,680 thousand (CNY) and 14.4%, 14.5% and 14.4% respectively. 
+
+##2. Terminal Segmentation Review
+
+Dive into the terminal level, the ABC segment result of 2012 to 2014 is shown as below. In 2014, there were 665 terminals lie into A segment and the proportion was 1.9% by # of terminal:
+
+```{r echo=FALSE, warning=FALSE, message=FALSE}
+source("C:\\Works\\Francis R Repository\\R_ABC_ALL\\R\\Terminal Segment.R")
+```
+`r kable(recid_abcAB, caption="Number of Terminal by ABC Segments", align="r")`
+
+From the perspective of terminal type, Hospital terminal took 34% share by # of terminal. The segment A terminals in hospital part took 4% and in retail part took 0% by # of terminal respectively.
+
+```{r fig.width=10, fig.height=8, echo=FALSE, warning=FALSE, message=FALSE}
+print(mekko1)
+```
+
+From perspective of terminal type, Hospital terminal took 80% share by sales value. The segment A terminals in hospital part took 83% and in retail part took 66% by sales value.
+
+```{r fig.width=10, fig.height=8, echo=FALSE, warning=FALSE, message=FALSE}
+print(mekko2)
+```
+
+The sales performance of ABC segments in 2014 is tabulated as below:
+
+
+`r kable(ptmssubSum, caption="Sales Performence by ABC Segments", align="r")`
+
+
+The terminal segments progress from 2012 to 2014 at terminal level (In # of terminals) shown as below:
+
+```{r fig.width=10, fig.height=7, echo=FALSE, warning=FALSE, message=FALSE}
+source("C:\\Works\\Francis R Repository\\R_ABC_ALL\\R\\Alluvial.R")
+```
+
+##3. About ABC Segment Method
+
+About ABC Segment Method, based on Pareto Principle, the portion of the distribution having a large number of contribution far from the "head" or central part of the distribution. Specific to ABC Segment Method, Segment A contributes 80% sales, Segment B contributes 15% and Segment C just contributes the rest of 5%. So when making decisions, we should pay more attention to Segment A, less to B and nothing to C.

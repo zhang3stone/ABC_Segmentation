@@ -1,0 +1,35 @@
+Brand,BU,Division,Product,Product Group,Product_ID,Retail product,StockCode,SUB
+Cetrotide,FBU,GOP,Cetrotide,Fertility,23,No,F55A8801,MS China
+Concor,GMBU,GOP,Concor 2.5,CV,1,Yes,3978890010,MS China
+Concor,GMBU,GOP,Concor 5,CV,2,Yes,3028031191,MS China
+Crinone,FBU,GOP,Crinone,Fertility,27,No,F56B8801,MS China
+Erbitux,ONC,GOP,Erbitux,Erbitux,22,No,3023711191,MS China
+Erbitux,ONC,GOP,Erbitux 2,Erbitux,21,No,3021851191,MS China
+Euthyrox,MBU,GOP,Euthyrox 50,TD,5,Yes,3013921191,MS China
+Euthyrox,MBU,GOP,Euthyrox 100,TD,4,Yes,3013941191,MS China
+Glufast,MBU,GOP,Glufast 10,TD,84,No,3203870001,MS China
+Gonal-f,FBU,GOP,Gonal-f 75,Fertility,14,No,F1978801,MS China
+Gonal-f,FBU,GOP,Gonal-f 300,Fertility,15,No,F1998801,MS China
+Gonal-f,FBU,GOP,Gonal-f 450,Fertility,16,No,F19D8802,MS China
+Kuvan,GA,GOP,Kuvan,Kuvan,83,No,FSP18801,MS China
+Luveris,FBU,GOP,Luveris,Fertility,24,No,F5158801,MS China
+NHD,Allergy,Allergy,NHD 1,NHD,80,No,DE511355026-CN,MS China
+NHD,Allergy,Allergy,NHD 2,NHD,81,No,DE511360026-CN,MS China
+NHD,Allergy,Allergy,NHD 4,NHD,79,No,DE511356026-CN,MS China
+Ovidrel,FBU,GOP,Ovidrel Liquid,Fertility,78,No,F54G8802,MS China
+Ovidrel,FBU,GOP,Ovidrel Powder,Fertility,18,No,F54G8801,MS China
+Rebif,Other,GOP,Rebif 22,Rebif,19,No,F6728801,MS China
+Rebif,Other,GOP,Rebif 44,Rebif,20,No,F6748802,MS China
+Saizen,Other,GOP,Saizen 1.33,Saizen,7,No,F1248801,MS China
+Saizen,Other,GOP,Saizen 3.33,Saizen,8,No,F12688A1,MS China
+Saizen,Other,GOP,Saizen 8,Saizen,9,No,F1288804,MS China
+Sigmart,GMBU,GOP,Sigmart 30,CV,82,No,CHUG83118921,MS China
+Sigmart,GMBU,GOP,Sigmart 100,CV,26,No,CHUG83118716,MS China
+Stilamin,GMBU,GOP,Stilamin,SST,10,No,F0558801,MS China
+Thyrozol,MBU,GOP,Thyrozol,TD,6,Yes,3008391191,MS China
+WH,Other,GOP,Colposeptine,WH,11,No,FR3CLS006PXCH,MS China
+WH,Other,GOP,Colpotrophine Capsule,WH,12,No,FR3CLP010PXCH,MS China
+WH,Other,GOP,Colpotrophine cream,WH,13,No,FR3CLC015PXCH,MS China
+WH,Other,GOP,Fem 7,WH,25,No,FR3FM1050PXCH,MS China
+,,,,,3,,,
+,,,,,76,,,

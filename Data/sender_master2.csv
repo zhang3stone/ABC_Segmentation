@@ -1,0 +1,574 @@
+﻿Authorized_Distributor,DDI_Agreement_Required,DDI_System,Dis_Retail_Area,Distributor_Area,Distributor_City,Distributor_Group,Distributor_ID,Distributor_Latitude,Distributor_Longitude,Distributor_Name,Distributor_Province,Distributor_Province_CN,Distributor_Status,Distributor_Type,Glucophage_Distributor,Province_ID,Responsibe_Person,Tier,Validation
+上海九州通医药有限公司,No,DDI,华东 East,华东 East,上海市 Shanghai,九州通 Jointown,2518,31.23,121.47,上海九州通医药有限公司,上海市 Shanghai,上海市,Successful-ongoing,商业公司,Yes,24,陈超,Tier II,有效
+上海众协药业有限公司,No,DDI,华东 East,华东 East,上海市 Shanghai,上药 Shanghai Pharma,95,31.23,121.47,上海众协药业有限公司,上海市 Shanghai,上海市,Successful-ongoing,药店,No,24,吴敏良,Tier II,有效
+上海众宜药店有限公司,No,DDI,华东 East,华东 East,上海市 Shanghai,上药 Shanghai Pharma,96,31.23,121.47,上海众宜药店有限公司,上海市 Shanghai,上海市,Successful-ongoing,药店,No,24,李樑,Tier III,有效
+上海余天成医药有限公司,No,DDI,华东 East,华东 East,上海市 Shanghai,上药 Shanghai Pharma,2550,31.23,121.47,上海余天成医药有限公司,上海市 Shanghai,上海市,Successful-ongoing,商业公司,Yes,24,陈超,Tier II,有效
+上海医药分销控股有限公司,No,DDI,华东 East,华东 East,上海市 Shanghai,上药 Shanghai Pharma,93,31.23,121.47,上海医药分销控股有限公司,上海市 Shanghai,上海市,Successful-ongoing,商业公司,Yes,24,李樑,Tier I,有效
+上海华氏大药房配送中心有限公司,No,Cancel,华东 East,华东 East,上海市 Shanghai,其他 Others,91,31.23,121.47,上海华氏大药房配送中心有限公司,上海市 Shanghai,上海市,Cancel,商业公司,No,24,李樑,Tier III,取消
+上海宝岛大药房连锁有限公司,No,Cancel,华东 East,华东 East,上海市 Shanghai,其他 Others,7074,31.23,121.47,上海宝岛大药房连锁有限公司,上海市 Shanghai,上海市,Cancel,药店,No,24,陈超,Tier III,取消
+上海宝昌药店有限公司,No,DDI,华东 East,华东 East,上海市 Shanghai,其他 Others,7616,31.23,121.47,上海宝昌药店有限公司,上海市 Shanghai,上海市,Successful-ongoing,药店,No,24,吴敏良,Tier II,有效
+上海得一医药有限公司,No,Cancel,华东 East,华东 East,上海市 Shanghai,其他 Others,2495,31.23,121.47,上海得一医药有限公司,上海市 Shanghai,上海市,Cancel,商业公司,Yes,24,陈超,Tier III,取消
+上海思富医药有限公司,No,Cancel,华东 East,华东 East,上海市 Shanghai,其他 Others,94,31.23,121.47,上海思富医药有限公司,上海市 Shanghai,上海市,Cancel,商业公司,No,24,李樑,Tier III,取消
+上海慈济药业有限公司,No,DDI,华东 East,华东 East,上海市 Shanghai,其他 Others,9104,31.23,121.47,上海慈济药业有限公司,上海市 Shanghai,上海市,Successful-ongoing,商业公司,No,24,李樑,Tier II,有效
+上海新世纪药业有限公司,No,Cancel,华东 East,华东 East,上海市 Shanghai,其他 Others,2546,31.23,121.47,上海新世纪药业有限公司,上海市 Shanghai,上海市,Cancel,商业公司,No,24,陈超,Tier III,取消
+上海汇仁医药有限公司,No,Cancel,华东 East,华东 East,上海市 Shanghai,其他 Others,2516,31.23,121.47,上海汇仁医药有限公司,上海市 Shanghai,上海市,Cancel,商业公司,Yes,24,李樑,Tier III,取消
+上海浦东新区医药药材有限公司,No,Cancel,华东 East,华东 East,上海市 Shanghai,其他 Others,2530,31.23,121.47,上海浦东新区医药药材有限公司,上海市 Shanghai,上海市,Cancel,商业公司,No,24,李樑,Tier III,取消
+上海海欣医药有限公司,No,Cancel,华东 East,华东 East,上海市 Shanghai,其他 Others,2507,31.23,121.47,上海海欣医药有限公司,上海市 Shanghai,上海市,Cancel,商业公司,No,24,陈超,Tier II,取消
+上海童涵春堂药业股份有限公司,No,Cancel,华东 East,华东 East,上海市 Shanghai,其他 Others,2541,31.23,121.47,上海童涵春堂药业股份有限公司,上海市 Shanghai,上海市,Cancel,商业公司,No,24,陈超,Tier II,取消
+上海美罗医药有限公司,No,DDI,华东 East,华东 East,上海市 Shanghai,国药 Sinopharm,4238,31.23,121.47,上海美罗医药有限公司,上海市 Shanghai,上海市,Successful-ongoing,商业公司,No,24,陈超,Tier III,有效
+上海金山医药药材有限公司,No,DDI,华东 East,华东 East,上海市 Shanghai,上药 Shanghai Pharma,4091,31.23,121.47,上海金山医药药材有限公司,上海市 Shanghai,上海市,Successful-ongoing,商业公司,No,24,陈超,Tier II,有效
+上海金石医药药材有限公司,No,DDI,华东 East,华东 East,上海市 Shanghai,上药 Shanghai Pharma,2517,31.23,121.47,上海金石医药药材有限公司,上海市 Shanghai,上海市,Successful-ongoing,商业公司,Yes,24,陈超,Tier II,有效
+上海铃谦沪中医药有限公司,No,DDI,华东 East,华东 East,上海市 Shanghai,上药 Shanghai Pharma,92,31.23,121.47,上海铃谦沪中医药有限公司,上海市 Shanghai,上海市,Successful-ongoing,商业公司,No,24,李樑,Tier II,有效
+上海龙威医药有限公司,No,DDI,华东 East,华东 East,上海市 Shanghai,其他 Others,2525,31.23,121.47,上海龙威医药有限公司,上海市 Shanghai,上海市,Successful-ongoing,商业公司,Yes,24,陈超,Tier II,有效
+上药山禾无锡医药股份有限公司,No,DDI,华东 East,华东 East,无锡市 Wuxi,上药 Shanghai Pharma,80,31.57,120.3,上药山禾无锡医药股份有限公司,江苏省 Jiangsu,江苏省,Successful-ongoing,商业公司,Yes,16,葛爱,Tier II,有效
+上药科园信海医药十堰有限公司,No,DDI,华南 South,华南 South,十堰市 Shiyan,上药 Shanghai Pharma,8770,32.65,110.78,上药科园信海医药十堰有限公司,湖北省 Hubei,湖北省,Successful-ongoing,商业公司,No,13,阮明,Tier III,有效
+上药科园信海医药吉林有限公司,No,DDI,华北 North,华北 North,长春市 Changchun,上药 Shanghai Pharma,26,43.9,125.32,上药科园信海医药吉林有限公司,吉林省 Jilin,吉林省,Successful-validation,商业公司,Yes,15,李志群,Tier II,有效
+上药科园信海医药宜昌有限公司,No,DDI,华南 South,华南 South,宜昌市 Yichang,上药 Shanghai Pharma,8256,30.691967,111.286471,上药科园信海医药宜昌有限公司,湖北省 Hubei,湖北省,Successful-ongoing,商业公司,No,13,阮明,Tier III,有效
+上药科园信海医药荆州有限公司,No,DDI,华南 South,华南 South,荆州市 Jingzhou,上药 Shanghai Pharma,8769,30.33,112.23,上药科园信海医药荆州有限公司,湖北省 Hubei,湖北省,Successful-ongoing,商业公司,No,13,阮明,Tier III,有效
+上药科园信海医药襄阳有限公司,No,DDI,华南 South,华南 South,襄阳市 Xiangyang,上药 Shanghai Pharma,8638,32.02,112.15,上药科园信海医药襄阳有限公司,湖北省 Hubei,湖北省,Successful-ongoing,商业公司,No,13,阮明,Tier III,有效
+上药科园信海陕西医药有限公司,No,DDI,华东 East,华北 North,西安市 Xi'an,上药 Shanghai Pharma,45,34.27,108.93,上药科园信海陕西医药有限公司,陕西省 Shaanxi,陕西省,Successful-ongoing,商业公司,No,25,王晓理,Tier II,有效
+上药科园信海陕西有限公司西安新特药大药房,No,DDI,华东 East,华北 North,西安市 Xi'an,其他 Others,7585,34.27,108.93,上药科园信海陕西有限公司西安新特药大药房,陕西省 Shaanxi,陕西省,Successful-ongoing,药店,No,25,王晓理,Tier III,有效
+东北制药集团公司供销公司,No,DDI,华北 North,华北 North,沈阳市 Shenyang,其他 Others,727,41.8,123.43,东北制药集团公司供销公司,辽宁省 Liaoning,辽宁省,Successful-ongoing,商业公司,Yes,18,赵骏铭,Tier III,有效
+东南医药物流有限公司,No,DDI,华东 East,华东 East,泉州市 Quanzhou,其他 Others,730,24.88,118.67,东南医药物流有限公司,福建省 Fujian,福建省,Successful-ongoing,商业公司,Yes,4,何秀彬,Tier III,有效
+东莞市泰安医药有限公司,No,Cancel,华南 South,华南 South,东莞市 Dongguan,其他 Others,5439,23.05,113.75,东莞市泰安医药有限公司,广东省 Guangdong,广东省,Cancel,商业公司,Yes,5,林珏峰,Tier III,取消
+东莞市裕恒医药有限公司,No,Cancel,华南 South,华南 South,东莞市 Dongguan,其他 Others,5799,23.05,113.75,东莞市裕恒医药有限公司,广东省 Guangdong,广东省,Cancel,商业公司,No,5,林珏峰,Tier III,取消
+中健之康供应链服务有限责任公司,No,Cancel,华东 East,华东 East,南京市 Nanjing,其他 Others,4531,32.07,118.78,中健之康供应链服务有限责任公司,江苏省 Jiangsu,江苏省,Cancel,商业公司,No,16,吴敏良,Tier III,取消
+中国人民解放军总后勤部丰台综合仓库药材供应站,No,No DDI,华北 North,华北 North,北京市 Beijing,其他 Others,6173,39.9,116.4,中国人民解放军总后勤部丰台综合仓库药材供应站,北京市 Beijing,北京市,Military/Monthly,商业公司,Yes,2,刘利峰,Tier III,有效
+中山市中山医医药有限公司,No,DDI,华南 South,华南 South,中山市 Zhongshan,上药 Shanghai Pharma,3508,22.52,113.38,中山市中山医医药有限公司,广东省 Guangdong,广东省,Successful-ongoing,商业公司,No,5,庞洁瑜,Tier II,有效
+中山市兴卫医药有限公司,No,Cancel,华南 South,华南 South,中山市 Zhongshan,其他 Others,5454,22.52,113.38,中山市兴卫医药有限公司,广东省 Guangdong,广东省,Cancel,商业公司,Yes,5,庞洁瑜,Tier III,取消
+中山市医药有限公司,No,No DDI,华南 South,华南 South,中山市 Zhongshan,其他 Others,3507,22.52,113.38,中山市医药有限公司,广东省 Guangdong,广东省,Plan to cancel,商业公司,Yes,5,庞洁瑜,Tier III,有效
+临沂九州通医药有限公司,No,DDI,华东 East,华东 East,临沂市 Linyi,九州通 Jointown,4216,35.05,118.35,临沂九州通医药有限公司,山东省 Shandong,山东省,Successful-ongoing,商业公司,No,23,赵树峰,Tier III,有效
+九州通医药集团股份有限公司,No,DDI,华南 South,华南 South,武汉市 Wuhan,九州通 Jointown,1742,30.6,114.3,九州通医药集团股份有限公司,湖北省 Hubei,湖北省,Successful-ongoing,商业公司,No,13,阮明,Tier II,有效
+九州通集团应城医药有限公司,No,DDI,华南 South,华南 South,孝感市 Xiaogan,九州通 Jointown,4363,30.924568,113.916903,九州通集团应城医药有限公司,湖北省 Hubei,湖北省,Successful-ongoing,商业公司,Yes,13,阮明,Tier III,有效
+九州通集团杭州医药有限公司,No,DDI,华东 East,华东 East,杭州市 Hangzhou,九州通 Jointown,6395,30.28,120.15,九州通集团杭州医药有限公司,浙江省 Zhejiang,浙江省,Successful-ongoing,商业公司,No,31,陈小锋,Tier III,有效
+云南云卫药事服务有限公司,No,Cancel,华南 South,华南 South,昆明市 Kunming,其他 Others,3962,25.05,102.72,云南云卫药事服务有限公司,云南省 Yunnan,云南省,Cancel,商业公司,Yes,30,刘鹏程,Tier III,取消
+云南医药工业股份有限公司,No,DDI,华南 South,华南 South,昆明市 Kunming,其他 Others,3377,25.05,102.72,云南医药工业股份有限公司,云南省 Yunnan,云南省,Successful-ongoing,商业公司,No,30,刘鹏程,Tier III,有效
+云南同丰医药有限公司,No,DDI,华南 South,华南 South,昆明市 Kunming,其他 Others,3362,25.05,102.72,云南同丰医药有限公司,云南省 Yunnan,云南省,Successful-ongoing,商业公司,Yes,30,刘鹏程,Tier III,有效
+云南恩红(集团)有限公司,No,Cancel,华南 South,华南 South,昆明市 Kunming,其他 Others,3286,25.05,102.72,云南恩红(集团)有限公司,云南省 Yunnan,云南省,Cancel,商业公司,No,30,刘鹏程,Tier III,取消
+云南省医药有限公司,No,DDI,华南 South,华南 South,昆明市 Kunming,其他 Others,150,25.05,102.72,云南省医药有限公司,云南省 Yunnan,云南省,Successful-ongoing,商业公司,Yes,30,刘鹏程,Tier II,有效
+云南鸿翔一心堂药业(集团)股份有限公司,No,DDI,华南 South,华南 South,昆明市 Kunming,其他 Others,3301,25.05,102.72,云南鸿翔一心堂药业(集团)股份有限公司,云南省 Yunnan,云南省,Successful-validation,商业公司,Yes,30,刘鹏程,Tier III,有效
+云南龙庆药业有限公司,No,Cancel,华南 South,华南 South,昆明市 Kunming,其他 Others,5770,25.05,102.72,云南龙庆药业有限公司,云南省 Yunnan,云南省,Cancel,商业公司,No,30,刘鹏程,Tier III,取消
+人福医药宜昌有限公司,No,DDI,华南 South,华南 South,宜昌市 Yichang,其他 Others,6371,30.691967,111.286471,人福医药宜昌有限公司,湖北省 Hubei,湖北省,Successful-ongoing,商业公司,No,13,阮明,Tier III,有效
+人福医药湖北有限公司,No,DDI,华南 South,华南 South,武汉市 Wuhan,其他 Others,4264,30.6,114.3,人福医药湖北有限公司,湖北省 Hubei,湖北省,Successful-ongoing,商业公司,Yes,13,阮明,Tier III,有效
+佛山创美药业有限公司,No,DDI,华南 South,华南 South,佛山市 Foshan,其他 Others,7154,23.02,113.12,佛山创美药业有限公司,广东省 Guangdong,广东省,Successful-ongoing,商业公司,No,5,林珏峰,Tier III,有效
+佛山市南海新药特药有限公司,No,DDI,华南 South,华南 South,佛山市 Foshan,国药 Sinopharm,109,23.02,113.12,佛山市南海新药特药有限公司,广东省 Guangdong,广东省,Successful-ongoing,商业公司,No,5,庞洁瑜,Tier II,有效
+佛山市平安药业有限公司,No,Cancel,华南 South,华南 South,佛山市 Foshan,其他 Others,766,23.02,113.12,佛山市平安药业有限公司,广东省 Guangdong,广东省,Cancel,商业公司,No,5,庞洁瑜,Tier III,取消
+佳木斯海王医药有限公司,No,Cancel,华北 North,华北 North,佳木斯市 Jiamusi,其他 Others,8117,46.799923,130.318917,佳木斯海王医药有限公司,黑龙江 Heilongjiang,黑龙江,Cancel,商业公司,No,10,徐建超,Tier III,取消
+兰州九州通医药有限公司,No,DDI,华东 East,华北 North,兰州市 Lanzhou,九州通 Jointown,1829,36.07,103.82,兰州九州通医药有限公司,甘肃省 Gansu,甘肃省,Successful-ongoing,商业公司,Yes,6,王晓理,Tier III,有效
+兰州军区兰州药材供应站,No,No DDI,华东 East,华北 North,兰州市 Lanzhou,其他 Others,9179,36.07,103.82,兰州军区兰州药材供应站,甘肃省 Gansu,甘肃省,Military/Monthly/Keyuan,商业公司,No,6,王晓理,Tier III,有效
+兰州军区西安药材供应站,No,No DDI,华东 East,华北 North,西安市 Xi'an,其他 Others,5718,34.27,108.93,兰州军区西安药材供应站,陕西省 Shaanxi,陕西省,Military/Monthly/Keyuan,商业公司,No,25,王晓理,Tier III,有效
+兰州强生医药有限责任公司,No,Cancel,华东 East,华北 North,兰州市 Lanzhou,其他 Others,1833,36.07,103.82,兰州强生医药有限责任公司,甘肃省 Gansu,甘肃省,Cancel,商业公司,Yes,6,王晓理,Tier III,取消
+兰州瑞达药业有限责任公司,No,DDI,华东 East,华北 North,兰州市 Lanzhou,其他 Others,14,36.07,103.82,兰州瑞达药业有限责任公司,甘肃省 Gansu,甘肃省,Successful-ongoing,商业公司,No,6,王晓理,Tier II,有效
+内蒙古九州通医药有限公司,No,DDI,华北 North,华北 North,呼和浩特市 Hohhot,九州通 Jointown,2040,40.83,111.73,内蒙古九州通医药有限公司,内蒙古 Inner Mongolia,内蒙古,Successful-ongoing,商业公司,No,19,邓彦辉,Tier III,有效
+内蒙古京远大药房有限责任公司,No,Cancel,华北 North,华北 North,呼和浩特市 Hohhot,其他 Others,7586,40.83,111.73,内蒙古京远大药房有限责任公司,内蒙古 Inner Mongolia,内蒙古,Cancel,药店,Yes,19,邓彦辉,Tier III,取消
+北京九州通医药有限公司,No,DDI,华北 North,华北 North,北京市 Beijing,九州通 Jointown,2,39.9,116.4,北京九州通医药有限公司,北京市 Beijing,北京市,Successful-ongoing,商业公司,Yes,2,刘利峰,Tier II,有效
+北京京卫元华医药科技有限公司,No,Cancel,华北 North,华北 North,北京市 Beijing,华润 China Resources,1,39.9,116.4,北京京卫元华医药科技有限公司,北京市 Beijing,北京市,Cancel,商业公司,No,2,邓彦辉,Tier III,取消
+北京京卫元华医药科技有限公司济南京卫第一大药房,No,Cancel,华东 East,华东 East,济南市 Jinan,其他 Others,83,36.67,116.98,北京京卫元华医药科技有限公司济南京卫第一大药房,山东省 Shandong,山东省,Cancel,药店,No,23,赵树峰,Tier III,取消
+北京京卫元华医药科技有限公司西安京卫第一大药房,No,Cancel,华东 East,华北 North,西安市 Xi'an,其他 Others,43,34.27,108.93,北京京卫元华医药科技有限公司西安京卫第一大药房,陕西省 Shaanxi,陕西省,Cancel,商业公司,No,25,王晓理,Tier III,取消
+北京信海康医药有限责任公司,No,Cancel,华北 North,华北 North,北京市 Beijing,上药 Shanghai Pharma,551,39.9,116.4,北京信海康医药有限责任公司,北京市 Beijing,北京市,Cancel,商业公司,No,2,张伟,Tier III,取消
+北京信海科园大药房有限公司,Yes,DDI,华北 North,华北 North,北京市 Beijing,上药 Shanghai Pharma,7,39.9,116.4,北京信海科园大药房有限公司,北京市 Beijing,北京市,Successful-validation,药店,No,2,邓彦辉,Tier II,有效
+北京军区石家庄药材供应站,No,No DDI,华北 North,华北 North,石家庄市 Shijiazhuang,其他 Others,444,38.05,114.52,北京军区石家庄药材供应站,河北省 Hebei,河北省,Military/Monthly/Keyuan,商业公司,Yes,9,刘涛,Tier III,有效
+北京新稀特大药房,No,Cancel,华北 North,华北 North,北京市 Beijing,其他 Others,6,39.9,116.4,北京新稀特大药房,北京市 Beijing,北京市,Cancel,药店,No,2,张伟,Tier III,取消
+北京爱心伟业医药有限公司,No,Cancel,华北 North,华北 North,北京市 Beijing,上药 Shanghai Pharma,348,39.9,116.4,北京爱心伟业医药有限公司,北京市 Beijing,北京市,Cancel,商业公司,Yes,2,张伟,Tier II,取消
+北京科园信海医药经营有限公司,Yes,DDI,华北 North,华北 North,北京市 Beijing,上药 Shanghai Pharma,3,39.9,116.4,北京科园信海医药经营有限公司,北京市 Beijing,北京市,Successful-ongoing,商业公司,Yes,2,张伟,Tier I,有效
+十堰九州通医药有限公司,No,DDI,华南 South,华南 South,十堰市 Shiyan,九州通 Jointown,6836,32.65,110.78,十堰九州通医药有限公司,湖北省 Hubei,湖北省,Successful-ongoing,商业公司,Yes,13,阮明,Tier III,有效
+华东医药湖州有限公司,No,DDI,华东 East,华东 East,湖州市 Huzhou,其他 Others,8238,30.9,120.08,华东医药湖州有限公司,浙江省 Zhejiang,浙江省,Successful-validation,商业公司,Yes,31,陈小锋,Tier III,有效
+华东医药绍兴有限公司,No,DDI,华东 East,华东 East,绍兴市 Shaoxing,其他 Others,9951,30,120.57,华东医药绍兴有限公司,浙江省 Zhejiang,浙江省,Successful-validation,商业公司,No,31,陈小锋,Tier III,有效
+华东医药股份有限公司,No,DDI,华东 East,华东 East,杭州市 Hangzhou,其他 Others,98,30.28,120.15,华东医药股份有限公司,浙江省 Zhejiang,浙江省,Successful-ongoing,商业公司,Yes,31,陈小锋,Tier II,有效
+华润临沂医药有限公司,No,DDI,华东 East,华东 East,临沂市 Linyi,华润 China Resources,1950,35.05,118.35,华润临沂医药有限公司,山东省 Shandong,山东省,Successful-ongoing,商业公司,No,23,赵树峰,Tier III,有效
+华润内蒙古医药有限公司,No,DDI,华北 North,华北 North,呼和浩特市 Hohhot,华润 China Resources,36,40.83,111.73,华润内蒙古医药有限公司,内蒙古 Inner Mongolia,内蒙古,Successful-ongoing,商业公司,Yes,19,邓彦辉,Tier II,有效
+华润医药商业集团有限公司,No,DDI,华北 North,华北 North,北京市 Beijing,华润 China Resources,8,39.9,116.4,华润医药商业集团有限公司,北京市 Beijing,北京市,Successful-ongoing,商业公司,Yes,2,邓彦辉,Tier I,有效
+华润南通医药有限公司,No,DDI,华东 East,华东 East,南通市 Nantong,华润 China Resources,9262,31.98,120.88,华润南通医药有限公司,江苏省 Jiangsu,江苏省,Successful-ongoing,商业公司,Yes,16,葛爱,Tier III,有效
+华润吉林医药有限公司,No,DDI,华北 North,华北 North,长春市 Changchun,华润 China Resources,24,43.9,125.32,华润吉林医药有限公司,吉林省 Jilin,吉林省,Successful-ongoing,商业公司,Yes,15,李志群,Tier II,有效
+华润吉林康乃尔医药有限公司,No,DDI,华北 North,华北 North,长春市 Changchun,华润 China Resources,1563,43.9,125.32,华润吉林康乃尔医药有限公司,吉林省 Jilin,吉林省,Successful-ongoing,商业公司,Yes,15,李志群,Tier III,有效
+华润国康(北京)医药有限公司,No,Cancel,华北 North,华北 North,北京市 Beijing,华润 China Resources,162,39.9,116.4,华润国康(北京)医药有限公司,北京市 Beijing,北京市,Cancel,商业公司,Yes,2,邓彦辉,Tier II,取消
+华润大连澳德医药有限公司,No,DDI,华北 North,华北 North,大连市 Dalian,华润 China Resources,674,38.92,121.62,华润大连澳德医药有限公司,辽宁省 Liaoning,辽宁省,Successful-ongoing,商业公司,Yes,18,李志群,Tier II,有效
+华润天津医药有限公司,No,DDI,华北 North,华北 North,天津市 Tianjin,华润 China Resources,2807,39.12,117.2,华润天津医药有限公司,天津市 Tianjin,天津市,Successful-ongoing,商业公司,Yes,27,刘利峰,Tier II,有效
+华润山东医药有限公司,No,DDI,华东 East,华东 East,济南市 Jinan,华润 China Resources,85,36.67,116.98,华润山东医药有限公司,山东省 Shandong,山东省,Successful-ongoing,商业公司,Yes,23,赵树峰,Tier II,有效
+华润山西康兴源医药有限公司,No,DDI,华北 North,华北 North,太原市 Taiyuan,华润 China Resources,7179,37.87,112.55,华润山西康兴源医药有限公司,山西省 Shanxi,山西省,Successful-ongoing,商业公司,Yes,26,刘涛,Tier II,有效
+华润广东医药有限公司,No,DDI,华南 South,华南 South,广州市 Guangzhou,华润 China Resources,118,23.13,113.27,华润广东医药有限公司,广东省 Guangdong,广东省,Successful-ongoing,商业公司,Yes,5,庞洁瑜,Tier I,有效
+华润昆山医药有限公司,No,Cancel,华东 East,华东 East,苏州市 Suzhou,华润 China Resources,1816,31.3,120.58,华润昆山医药有限公司,江苏省 Jiangsu,江苏省,Cancel,商业公司,No,16,吴敏良,Tier II,取消
+华润汕头康威医药有限公司,No,DDI,华南 South,华南 South,汕头市 Shantou,华润 China Resources,123,23.35,116.68,华润汕头康威医药有限公司,广东省 Guangdong,广东省,Successful-ongoing,商业公司,No,5,林珏峰,Tier II,有效
+华润河北医药有限公司,No,DDI,华北 North,华北 North,廊坊市 Langfang,华润 China Resources,1842,39.52,116.7,华润河北医药有限公司,河北省 Hebei,河北省,Successful-ongoing,商业公司,Yes,9,张伟,Tier II,有效
+华润河南医药有限公司,No,DDI,华东 East,华东 East,郑州市 Zhengzhou,华润 China Resources,69,34.75,113.62,华润河南医药有限公司,河南省 Henan,河南省,Successful-ongoing,商业公司,Yes,12,李娟,Tier II,有效
+华润湖北金马医药有限公司,No,DDI,华南 South,华南 South,武汉市 Wuhan,华润 China Resources,7537,30.6,114.3,华润湖北金马医药有限公司,湖北省 Hubei,湖北省,Successful-ongoing,商业公司,Yes,13,阮明,Tier III,有效
+华润湖南双舟医药有限公司,No,DDI,华南 South,华南 South,长沙市 Changsha,华润 China Resources,1512,28.23,112.93,华润湖南双舟医药有限公司,湖南省 Hunan,湖南省,Successful-ongoing,商业公司,No,14,谭浪,Tier III,有效
+华润湖南瑞格医药有限公司,No,DDI,华南 South,华南 South,长沙市 Changsha,华润 China Resources,145,28.23,112.93,华润湖南瑞格医药有限公司,湖南省 Hunan,湖南省,Successful-ongoing,商业公司,Yes,14,谭浪,Tier II,有效
+华润牡丹江天利医药有限公司,No,DDI,华北 North,华北 North,牡丹江市 Mudanjiang,华润 China Resources,5448,44.551653,129.633169,华润牡丹江天利医药有限公司,黑龙江 Heilongjiang,黑龙江,Successful-ongoing,商业公司,Yes,10,徐建超,Tier II,有效
+华润福建医药有限公司,No,DDI,华东 East,华东 East,福州市 Fuzhou,华润 China Resources,9261,26.08,119.3,华润福建医药有限公司,福建省 Fujian,福建省,Successful-ongoing,商业公司,No,4,何秀彬,Tier II,有效
+华润苏州礼安医药有限公司,No,DDI,华东 East,华东 East,苏州市 Suzhou,华润 China Resources,78,31.3,120.58,华润苏州礼安医药有限公司,江苏省 Jiangsu,江苏省,Successful-ongoing,商业公司,Yes,16,葛爱,Tier II,有效
+华润菏泽医药有限公司,No,DDI,华东 East,华东 East,菏泽市 Heze,华润 China Resources,9368,35.14,115.26,华润菏泽医药有限公司,山东省 Shandong,山东省,Follow-up,商业公司,Yes,23,赵树峰,Tier III,有效
+华润辽宁医药有限公司,No,DDI,华北 North,华北 North,沈阳市 Shenyang,华润 China Resources,5449,41.8,123.43,华润辽宁医药有限公司,辽宁省 Liaoning,辽宁省,Successful-ongoing,商业公司,Yes,18,赵骏铭,Tier III,有效
+华润邯郸医药有限公司,No,DDI,华北 North,华北 North,邯郸市 Handan,华润 China Resources,8903,36.62,114.48,华润邯郸医药有限公司,河北省 Hebei,河北省,Successful-ongoing,商业公司,Yes,9,刘涛,Tier III,有效
+华润青岛医药有限公司,No,DDI,华东 East,华东 East,青岛市 Qingdao,华润 China Resources,2196,36.07,120.38,华润青岛医药有限公司,山东省 Shandong,山东省,Successful-ongoing,商业公司,Yes,23,赵树峰,Tier III,有效
+华润黑龙江医药有限公司,No,DDI,华北 North,华北 North,哈尔滨市 Harbin,华润 China Resources,6697,45.8,126.53,华润黑龙江医药有限公司,黑龙江 Heilongjiang,黑龙江,Successful-ongoing,商业公司,No,10,徐建超,Tier III,有效
+南京上药众协大药房有限公司,No,Cancel,华东 East,华东 East,南京市 Nanjing,上药 Shanghai Pharma,77,32.07,118.78,南京上药众协大药房有限公司,江苏省 Jiangsu,江苏省,Cancel,药店,Yes,16,吴敏良,Tier III,取消
+南京军区勤联部卫生部福州药品器材供应站,No,No DDI,华东 East,华东 East,福州市 Fuzhou,其他 Others,2067,26.08,119.3,南京军区勤联部卫生部福州药品器材供应站,福建省 Fujian,福建省,Military/Monthly,商业公司,Yes,4,何秀彬,Tier III,有效
+南京医药合肥大药房连锁有限公司药品分公司,No,Cancel,华东 East,华东 East,合肥市 Hefei,其他 Others,5800,31.83,117.25,南京医药合肥大药房连锁有限公司药品分公司,安徽省 Anhui,安徽省,Cancel,商业公司,No,1,殷波,Tier II,取消
+南京医药合肥天星有限公司,No,DDI,华东 East,华东 East,合肥市 Hefei,其他 Others,2088,31.83,117.25,南京医药合肥天星有限公司,安徽省 Anhui,安徽省,Successful-ongoing,商业公司,Yes,1,殷波,Tier III,有效
+南京医药湖北有限公司,No,DDI,华南 South,华南 South,武汉市 Wuhan,其他 Others,3669,30.6,114.3,南京医药湖北有限公司,湖北省 Hubei,湖北省,Successful-ongoing,商业公司,Yes,13,阮明,Tier III,有效
+南京医药药事服务有限公司,No,DDI,华东 East,华东 East,南京市 Nanjing,其他 Others,76,32.07,118.78,南京医药药事服务有限公司,江苏省 Jiangsu,江苏省,Successful-ongoing,商业公司,Yes,16,葛爱,Tier II,有效
+南京静和药业有限公司,No,DDI,华东 East,华东 East,南京市 Nanjing,其他 Others,7413,32.07,118.78,南京静和药业有限公司,江苏省 Jiangsu,江苏省,Successful-ongoing,药店,No,16,葛爱,Tier III,有效
+南充九州通医药有限公司,No,DDI,华南 South,华南 South,南充市 Nanchong,九州通 Jointown,9314,30.78,106.08,南充九州通医药有限公司,四川省 Sichuan,四川省,Successful-ongoing,商业公司,No,22,王东,Tier III,有效
+南平鹭燕医药有限公司,No,DDI,华东 East,华东 East,南平市 Nanping,其他 Others,2104,26.641769,118.177708,南平鹭燕医药有限公司,福建省 Fujian,福建省,Successful-ongoing,商业公司,No,4,何秀彬,Tier III,有效
+南通礼安医药有限公司,No,Cancel,华东 East,华东 East,南通市 Nantong,华润 China Resources,2105,31.98,120.88,南通礼安医药有限公司,江苏省 Jiangsu,江苏省,Cancel,商业公司,No,16,葛爱,Tier III,取消
+南通礼安大药房有限公司,No,Cancel,华东 East,华东 East,南通市 Nantong,华润 China Resources,7479,31.98,120.88,南通礼安大药房有限公司,江苏省 Jiangsu,江苏省,Cancel,药店,No,16,吴敏良,Tier IV,取消
+南通诚信大药房连锁有限公司孩儿巷药店,No,DDI,华东 East,华东 East,南通市 Nantong,上药 Shanghai Pharma,8874,31.98,120.88,南通诚信大药房连锁有限公司孩儿巷药店,江苏省 Jiangsu,江苏省,Successful-ongoing,药店,No,16,葛爱,Tier III,有效
+厦门中鹭医药有限公司,No,Cancel,华东 East,华东 East,厦门市 Xiamen,其他 Others,4931,24.48,118.08,厦门中鹭医药有限公司,福建省 Fujian,福建省,Cancel,商业公司,No,4,何秀彬,Tier III,取消
+厦门中鹭医药有限公司槟榔药房,No,Cancel,华东 East,华东 East,厦门市 Xiamen,其他 Others,7580,24.48,118.08,厦门中鹭医药有限公司槟榔药房,福建省 Fujian,福建省,Cancel,药店,No,4,何秀彬,Tier III,取消
+台州上药医药有限公司,No,DDI,华东 East,华东 East,台州市 Taizhou,上药 Shanghai Pharma,2720,28.68,121.43,台州上药医药有限公司,浙江省 Zhejiang,浙江省,Successful-ongoing,商业公司,Yes,31,陈小锋,Tier III,有效
+台州市健达医药有限公司,No,No DDI,华东 East,华东 East,台州市 Taizhou,其他 Others,2714,28.68,121.43,台州市健达医药有限公司,浙江省 Zhejiang,浙江省,Designated/Monthly/Website,商业公司,No,31,陈小锋,Tier III,有效
+合肥市上药众协大药房有限公司,No,Cancel,华东 East,华东 East,合肥市 Hefei,上药 Shanghai Pharma,7444,31.83,117.25,合肥市上药众协大药房有限公司,安徽省 Anhui,安徽省,Cancel,药店,No,1,殷波,Tier III,取消
+合肥市迪迈医药有限公司,No,Cancel,华东 East,华东 East,合肥市 Hefei,其他 Others,5163,31.83,117.25,合肥市迪迈医药有限公司,安徽省 Anhui,安徽省,Cancel,商业公司,No,1,殷波,Tier III,取消
+合肥新稀特大药房有限公司,No,DDI,华东 East,华东 East,合肥市 Hefei,其他 Others,60,31.83,117.25,合肥新稀特大药房有限公司,安徽省 Anhui,安徽省,Successful-ongoing,药店,No,1,殷波,Tier III,有效
+合肥经济技术开发区静和大药房,No,DDI,华东 East,华东 East,合肥市 Hefei,上药 Shanghai Pharma,8870,31.83,117.25,合肥经济技术开发区静和大药房,安徽省 Anhui,安徽省,Successful-ongoing,药店,No,1,殷波,Tier II,有效
+吉林市全新药业有限责任公司,No,Cancel,华北 North,华北 North,吉林市 Jilin,其他 Others,1589,43.83,126.55,吉林市全新药业有限责任公司,吉林省 Jilin,吉林省,Cancel,商业公司,Yes,15,李志群,Tier III,取消
+吉林省吉林市医药有限责任公司,No,Cancel,华北 North,华北 North,吉林市 Jilin,其他 Others,1558,43.83,126.55,吉林省吉林市医药有限责任公司,吉林省 Jilin,吉林省,Cancel,商业公司,Yes,15,李志群,Tier III,取消
+吉林省天和医药科技有限公司,No,Cancel,华北 North,华北 North,长春市 Changchun,其他 Others,1573,43.9,125.32,吉林省天和医药科技有限公司,吉林省 Jilin,吉林省,Cancel,商业公司,No,15,李志群,Tier III,取消
+吉林省宝仁药业有限公司,No,No DDI,华北 North,华北 North,吉林市 Jilin,其他 Others,1551,43.83,126.55,吉林省宝仁药业有限公司,吉林省 Jilin,吉林省,Designated/Monthly,商业公司,Yes,15,李志群,Tier III,有效
+吉林科伦医药贸易有限公司,No,Cancel,华北 North,华北 North,吉林市 Jilin,其他 Others,4122,43.83,126.55,吉林科伦医药贸易有限公司,吉林省 Jilin,吉林省,Cancel,商业公司,No,15,李志群,Tier III,取消
+吴江市国医药业有限公司,No,Cancel,华东 East,华东 East,苏州市 Suzhou,其他 Others,2924,31.3,120.58,吴江市国医药业有限公司,江苏省 Jiangsu,江苏省,Cancel,商业公司,Yes,16,殷波,Tier III,取消
+呼伦贝尔市同致药业有限责任公司,No,Cancel,华北 North,华北 North,呼伦贝尔市 Hulunbeir,其他 Others,1426,49.22,119.77,呼伦贝尔市同致药业有限责任公司,内蒙古 Inner Mongolia,内蒙古,Cancel,商业公司,No,19,邓彦辉,Tier III,取消
+哈尔滨大格大药房有限公司,No,DDI,华北 North,华北 North,哈尔滨市 Harbin,其他 Others,7565,45.8,126.53,哈尔滨大格大药房有限公司,黑龙江 Heilongjiang,黑龙江,Successful-ongoing,药店,No,10,徐建超,Tier III,有效
+哈尔滨正大龙祥医药有限公司,No,DDI,华北 North,华北 North,哈尔滨市 Harbin,其他 Others,1120,45.8,126.53,哈尔滨正大龙祥医药有限公司,黑龙江 Heilongjiang,黑龙江,Successful-validation,商业公司,No,10,徐建超,Tier III,有效
+哈药集团医药有限公司康德药品分公司,No,Cancel,华北 North,华北 North,哈尔滨市 Harbin,其他 Others,1128,45.8,126.53,哈药集团医药有限公司康德药品分公司,黑龙江 Heilongjiang,黑龙江,Cancel,商业公司,No,10,徐建超,Tier III,取消
+哈药集团医药有限公司新药特药分公司,No,DDI,华北 North,华北 North,哈尔滨市 Harbin,其他 Others,21,45.8,126.53,哈药集团医药有限公司新药特药分公司,黑龙江 Heilongjiang,黑龙江,Successful-ongoing,商业公司,Yes,10,徐建超,Tier II,有效
+哈药集团医药有限公司新药特药商店,No,Cancel,华北 North,华北 North,哈尔滨市 Harbin,其他 Others,7569,45.8,126.53,哈药集团医药有限公司新药特药商店,黑龙江 Heilongjiang,黑龙江,Cancel,药店,No,10,徐建超,Tier III,取消
+哈药集团医药有限公司药品分公司,No,DDI,华北 North,华北 North,哈尔滨市 Harbin,其他 Others,22,45.8,126.53,哈药集团医药有限公司药品分公司,黑龙江 Heilongjiang,黑龙江,Successful-ongoing,商业公司,Yes,10,徐建超,Tier II,有效
+商丘市新先锋药业有限公司,No,Cancel,华东 East,华东 East,商丘市 Shangqiu,上药 Shanghai Pharma,2490,34.45,115.65,商丘市新先锋药业有限公司,河南省 Henan,河南省,Cancel,商业公司,Yes,12,李娟,Tier III,取消
+喀什九州通药业有限责任公司,No,DDI,华东 East,华北 North,喀什地区 Keshi,九州通 Jointown,1744,39.4704,75.989755,喀什九州通药业有限责任公司,新疆区 Xinjiang,新疆区,Successful-ongoing,商业公司,Yes,28,薛岩,Tier III,有效
+嘉事堂药业股份有限公司,No,DDI,华北 North,华北 North,北京市 Beijing,其他 Others,11,39.9,116.4,嘉事堂药业股份有限公司,北京市 Beijing,北京市,Successful-ongoing,商业公司,Yes,2,邓彦辉,Tier II,有效
+四川九州通科创医药有限公司,No,DDI,华南 South,华南 South,成都市 Chengdu,九州通 Jointown,5178,30.67,104.07,四川九州通科创医药有限公司,四川省 Sichuan,四川省,Successful-ongoing,商业公司,No,22,王东,Tier II,有效
+四川圣诺华药业有限责任公司,No,Cancel,华南 South,华南 South,成都市 Chengdu,其他 Others,2680,30.67,104.07,四川圣诺华药业有限责任公司,四川省 Sichuan,四川省,Cancel,商业公司,No,22,王东,Tier III,取消
+四川天诚药业股份有限公司,Yes,DDI,华南 South,华南 South,绵阳市 Mianyang,其他 Others,2678,31.47,104.73,四川天诚药业股份有限公司,四川省 Sichuan,四川省,Successful-ongoing,商业公司,No,22,王东,Tier III,有效
+四川康百年药业有限公司,No,DDI,华南 South,华南 South,成都市 Chengdu,其他 Others,2640,30.67,104.07,四川康百年药业有限公司,四川省 Sichuan,四川省,Successful-ongoing,商业公司,Yes,22,王东,Tier III,有效
+四川德馨大药房有限公司,No,DDI,华南 South,华南 South,成都市 Chengdu,其他 Others,7579,30.67,104.07,四川德馨大药房有限公司,四川省 Sichuan,四川省,Successful-ongoing,药店,No,22,王东,Tier III,有效
+四川智同医药有限公司,No,Cancel,华南 South,华南 South,成都市 Chengdu,其他 Others,2685,30.67,104.07,四川智同医药有限公司,四川省 Sichuan,四川省,Cancel,商业公司,No,22,王东,Tier III,取消
+四川省医药股份有限公司南充分公司,Yes,DDI,华南 South,华南 South,南充市 Nanchong,其他 Others,2672,30.78,106.08,四川省医药股份有限公司南充分公司,四川省 Sichuan,四川省,Successful-ongoing,商业公司,Yes,22,王东,Tier III,有效
+四川省医药股份有限公司川东分公司,Yes,DDI,华南 South,华南 South,达州市 Dazhou,其他 Others,5341,31.214199,107.494973,四川省医药股份有限公司川东分公司,四川省 Sichuan,四川省,Successful-ongoing,商业公司,Yes,22,王东,Tier III,有效
+四川省医药股份有限公司川南分公司,Yes,DDI,华南 South,华南 South,宜宾市 Yibin,其他 Others,5195,28.77,104.62,四川省医药股份有限公司川南分公司,四川省 Sichuan,四川省,Successful-ongoing,商业公司,Yes,22,王东,Tier III,有效
+四川省医药股份有限公司攀西分公司,Yes,DDI,华南 South,华南 South,攀枝花市 Panzhihua,其他 Others,3900,26.58,101.72,四川省医药股份有限公司攀西分公司,四川省 Sichuan,四川省,Successful-ongoing,商业公司,Yes,22,王东,Tier III,有效
+四川省医药股份有限公司绵阳分公司,Yes,DDI,华南 South,华南 South,绵阳市 Mianyang,其他 Others,4791,31.47,104.73,四川省医药股份有限公司绵阳分公司,四川省 Sichuan,四川省,Successful-ongoing,商业公司,No,22,王东,Tier III,有效
+四川省国嘉医药科技有限责任公司,No,DDI,华南 South,华南 South,成都市 Chengdu,其他 Others,2656,30.67,104.07,四川省国嘉医药科技有限责任公司,四川省 Sichuan,四川省,Successful-ongoing,商业公司,Yes,22,王东,Tier II,有效
+四川科伦医药贸易有限公司,No,Cancel,华南 South,华南 South,成都市 Chengdu,其他 Others,2641,30.67,104.07,四川科伦医药贸易有限公司,四川省 Sichuan,四川省,Cancel,商业公司,Yes,22,王东,Tier III,取消
+四川绵阳科伦医药贸易有限公司,No,Cancel,华南 South,华南 South,绵阳市 Mianyang,其他 Others,2647,31.47,104.73,四川绵阳科伦医药贸易有限公司,四川省 Sichuan,四川省,Cancel,商业公司,Yes,22,王东,Tier III,取消
+国药乐仁堂保定医药有限公司,No,DDI,华北 North,华北 North,保定市 Baoding,国药 Sinopharm,331,38.87,115.47,国药乐仁堂保定医药有限公司,河北省 Hebei,河北省,Successful-ongoing,商业公司,Yes,9,刘涛,Tier III,有效
+国药乐仁堂医药有限公司,No,DDI,华北 North,华北 North,石家庄市 Shijiazhuang,国药 Sinopharm,17,38.05,114.52,国药乐仁堂医药有限公司,河北省 Hebei,河北省,Successful-ongoing,商业公司,Yes,9,刘涛,Tier II,有效
+国药乐仁堂唐山医药有限公司,No,DDI,华北 North,华北 North,唐山市 Tangshan,国药 Sinopharm,19,39.63,118.2,国药乐仁堂唐山医药有限公司,河北省 Hebei,河北省,Successful-ongoing,商业公司,Yes,9,刘利峰,Tier II,有效
+国药乐仁堂唐山医药有限公司经营分公司-取消,No,Cancel,华北 North,华北 North,唐山市 Tangshan,国药 Sinopharm,5568,39.63,118.2,国药乐仁堂唐山医药有限公司经营分公司-取消,河北省 Hebei,河北省,Cancel,商业公司,No,9,刘涛,Tier III,取消
+国药乐仁堂张家口医药有限公司,No,DDI,华北 North,华北 North,张家口市 Zhangjiakou,国药 Sinopharm,6941,40.82,114.88,国药乐仁堂张家口医药有限公司,河北省 Hebei,河北省,Successful-ongoing,商业公司,Yes,9,刘涛,Tier III,有效
+国药乐仁堂承德医药有限公司,No,DDI,华北 North,华北 North,承德市 Chengde,国药 Sinopharm,8211,40.97,117.93,国药乐仁堂承德医药有限公司,河北省 Hebei,河北省,Successful-ongoing,商业公司,Yes,9,张伟,Tier III,有效
+国药乐仁堂沧州医药有限公司,No,DDI,华北 North,华北 North,沧州市 Cangzhou,国药 Sinopharm,597,38.3,116.83,国药乐仁堂沧州医药有限公司,河北省 Hebei,河北省,Successful-ongoing,商业公司,Yes,9,张伟,Tier III,有效
+国药乐仁堂石家庄医药有限公司,No,Cancel,华北 North,华北 North,石家庄市 Shijiazhuang,国药 Sinopharm,2622,38.05,114.52,国药乐仁堂石家庄医药有限公司,河北省 Hebei,河北省,Cancel,商业公司,No,9,刘涛,Tier III,取消
+国药乐仁堂秦皇岛医药有限公司,No,DDI,华北 North,华北 North,秦皇岛市 Qinhuangdao,国药 Sinopharm,6882,39.93,119.6,国药乐仁堂秦皇岛医药有限公司,河北省 Hebei,河北省,Successful-ongoing,商业公司,Yes,9,刘利峰,Tier III,有效
+国药乐仁堂衡水医药有限公司,No,DDI,华北 North,华北 North,衡水市 Hengshui,国药 Sinopharm,7211,37.73892,115.670177,国药乐仁堂衡水医药有限公司,河北省 Hebei,河北省,Successful-ongoing,商业公司,No,9,刘涛,Tier III,有效
+国药乐仁堂邢台医药有限公司,No,DDI,华北 North,华北 North,邢台市 Xingtai,国药 Sinopharm,8757,37.07,114.48,国药乐仁堂邢台医药有限公司,河北省 Hebei,河北省,Successful-ongoing,商业公司,No,9,刘涛,Tier III,有效
+国药乐仁堂邯郸医药有限公司,No,DDI,华北 North,华北 North,邯郸市 Handan,其他 Others,9952,36.62,114.48,国药乐仁堂邯郸医药有限公司,河北省 Hebei,河北省,Successful-ongoing,商业公司,Yes,9,刘涛,Tier III,有效
+国药广安医药有限公司,Yes,DDI,华南 South,华南 South,广安市 Guangan,国药 Sinopharm,8486,30.455962,106.633212,国药广安医药有限公司,四川省 Sichuan,四川省,Successful-ongoing,商业公司,No,22,王东,Tier III,有效
+国药控股（天津）东方博康医药有限公司,Yes,DDI,华北 North,华北 North,天津市 Tianjin,国药 Sinopharm,53,39.12,117.2,国药控股（天津）东方博康医药有限公司,天津市 Tianjin,天津市,Successful-ongoing,商业公司,Yes,27,刘利峰,Tier II,有效
+国药控股(天津滨海)医药有限公司,Yes,DDI,华北 North,华北 North,天津市 Tianjin,国药 Sinopharm,4628,39.12,117.2,国药控股(天津滨海)医药有限公司,天津市 Tianjin,天津市,Successful-ongoing,商业公司,Yes,27,刘利峰,Tier III,有效
+国药控股三明有限公司,No,DDI,华东 East,华东 East,三明市 Sanming,国药 Sinopharm,6364,26.27,117.62,国药控股三明有限公司,福建省 Fujian,福建省,Successful-ongoing,商业公司,No,4,何秀彬,Tier III,有效
+国药控股三门峡有限公司,No,DDI,华东 East,华东 East,三门峡市 Sanmenxia,国药 Sinopharm,5442,34.772494,111.200135,国药控股三门峡有限公司,河南省 Henan,河南省,Successful-ongoing,商业公司,Yes,12,李娟,Tier III,有效
+国药控股临沂有限公司,No,Cancel,华东 East,华东 East,临沂市 Linyi,国药 Sinopharm,1068,35.05,118.35,国药控股临沂有限公司,山东省 Shandong,山东省,Cancel,商业公司,Yes,23,赵树峰,Tier III,取消
+国药控股丹东有限公司,No,DDI,华北 North,华北 North,丹东市 Dandong,国药 Sinopharm,8871,40.08,124.22,国药控股丹东有限公司,辽宁省 Liaoning,辽宁省,Successful-ongoing,商业公司,Yes,18,赵骏铭,Tier III,有效
+国药控股乐山医药有限公司,Yes,DDI,华南 South,华南 South,乐山市 Leshan,国药 Sinopharm,7192,29.57,103.77,国药控股乐山医药有限公司,四川省 Sichuan,四川省,Successful-ongoing,商业公司,No,22,王东,Tier III,有效
+国药控股云南有限公司,Yes,DDI,华南 South,华南 South,昆明市 Kunming,国药 Sinopharm,149,25.05,102.72,国药控股云南有限公司,云南省 Yunnan,云南省,Successful-ongoing,商业公司,Yes,30,刘鹏程,Tier II,有效
+国药控股云南有限公司大药房,No,DDI,华南 South,华南 South,昆明市 Kunming,国药 Sinopharm,7584,25.05,102.72,国药控股云南有限公司大药房,云南省 Yunnan,云南省,Successful-ongoing,药店,No,30,刘鹏程,Tier III,有效
+国药控股凌云生物医药(上海)有限公司,No,DDI,华东 East,华东 East,上海市 Shanghai,其他 Others,8532,31.23,121.47,国药控股凌云生物医药(上海)有限公司,上海市 Shanghai,上海市,Successful-ongoing,商业公司,No,24,李樑,Tier II,有效
+国药控股分销中心有限公司,No,DDI,华东 East,华东 East,上海市 Shanghai,国药 Sinopharm,90,31.23,121.47,国药控股分销中心有限公司,上海市 Shanghai,上海市,Successful-ongoing,商业公司,Yes,24,李樑,Tier I,有效
+国药控股北京华鸿有限公司,Yes,DDI,华北 North,华北 North,北京市 Beijing,国药 Sinopharm,10,39.9,116.4,国药控股北京华鸿有限公司,北京市 Beijing,北京市,Successful-ongoing,商业公司,Yes,2,邓彦辉,Tier II,有效
+国药控股北京天星普信生物医药有限公司,Yes,DDI,华北 North,华北 North,北京市 Beijing,国药 Sinopharm,5,39.9,116.4,国药控股北京天星普信生物医药有限公司,北京市 Beijing,北京市,Successful-ongoing,商业公司,No,2,邓彦辉,Tier II,有效
+国药控股北京有限公司,No,DDI,华北 North,华北 North,北京市 Beijing,国药 Sinopharm,8753,39.9,116.4,国药控股北京有限公司,北京市 Beijing,北京市,Successful-ongoing,商业公司,Yes,2,张伟,Tier II,有效
+国药控股十堰有限公司,No,Cancel,华南 South,华南 South,十堰市 Shiyan,国药 Sinopharm,4926,32.65,110.78,国药控股十堰有限公司,湖北省 Hubei,湖北省,Cancel,商业公司,Yes,13,阮明,Tier III,取消
+国药控股南京有限公司,No,Cancel,华东 East,华东 East,南京市 Nanjing,国药 Sinopharm,4996,32.07,118.78,国药控股南京有限公司,江苏省 Jiangsu,江苏省,Cancel,商业公司,Yes,16,吴敏良,Tier III,取消
+国药控股南通有限公司,No,DDI,华东 East,华东 East,南通市 Nantong,国药 Sinopharm,2106,31.98,120.88,国药控股南通有限公司,江苏省 Jiangsu,江苏省,Successful-ongoing,商业公司,No,16,葛爱,Tier III,有效
+国药控股南阳有限公司,No,DDI,华东 East,华东 East,南阳市 Nanyang,国药 Sinopharm,4899,33,112.52,国药控股南阳有限公司,河南省 Henan,河南省,Successful-ongoing,商业公司,Yes,12,李娟,Tier III,有效
+国药控股台州有限公司,No,DDI,华东 East,华东 East,台州市 Taizhou,国药 Sinopharm,105,28.68,121.43,国药控股台州有限公司,浙江省 Zhejiang,浙江省,Successful-ongoing,商业公司,Yes,31,陈小锋,Tier III,有效
+国药控股吉林市医药有限公司,No,DDI,华北 North,华北 North,吉林市 Jilin,国药 Sinopharm,6503,43.83,126.55,国药控股吉林市医药有限公司,吉林省 Jilin,吉林省,Successful-ongoing,商业公司,Yes,15,李志群,Tier III,有效
+国药控股吉林有限公司,No,DDI,华北 North,华北 North,长春市 Changchun,国药 Sinopharm,25,43.9,125.32,国药控股吉林有限公司,吉林省 Jilin,吉林省,Successful-ongoing,商业公司,Yes,15,李志群,Tier II,有效
+国药控股咸宁有限公司,No,Cancel,华南 South,华南 South,咸宁市 Xianning,国药 Sinopharm,8822,29.841443,114.322492,国药控股咸宁有限公司,湖北省 Hubei,湖北省,Cancel,商业公司,Yes,13,阮明,Tier III,取消
+国药控股商丘有限公司,No,DDI,华东 East,华东 East,商丘市 Shangqiu,国药 Sinopharm,5337,34.45,115.65,国药控股商丘有限公司,河南省 Henan,河南省,Successful-ongoing,商业公司,Yes,12,李娟,Tier III,有效
+国药控股四川医药股份有限公司,Yes,DDI,华南 South,华南 South,成都市 Chengdu,其他 Others,148,30.67,104.07,国药控股四川医药股份有限公司,四川省 Sichuan,四川省,Successful-ongoing,商业公司,Yes,22,王东,Tier II,有效
+国药控股四平有限公司,No,DDI,华北 North,华北 North,四平市 Siping,国药 Sinopharm,5463,43.16642,124.350398,国药控股四平有限公司,吉林省 Jilin,吉林省,Successful-ongoing,商业公司,Yes,15,李志群,Tier III,有效
+国药控股国大药房新疆新特药业连锁有限责任公司,No,DDI,华东 East,华北 North,乌鲁木齐市 Urumqi,国药 Sinopharm,7592,43.82,87.62,国药控股国大药房新疆新特药业连锁有限责任公司,新疆区 Xinjiang,新疆区,Successful-validation,药店,No,28,薛岩,Tier III,有效
+国药控股大连有限公司,No,DDI,华北 North,华北 North,大连市 Dalian,国药 Sinopharm,34,38.92,121.62,国药控股大连有限公司,辽宁省 Liaoning,辽宁省,Successful-ongoing,商业公司,Yes,18,李志群,Tier II,有效
+国药控股天津有限公司,Yes,DDI,华北 North,华北 North,天津市 Tianjin,国药 Sinopharm,50,39.12,117.2,国药控股天津有限公司,天津市 Tianjin,天津市,Successful-ongoing,商业公司,Yes,27,刘利峰,Tier II,有效
+国药控股天津有限公司内蒙古分公司,No,Cancel,华北 North,华北 North,呼和浩特市 Hohhot,国药 Sinopharm,35,40.83,111.73,国药控股天津有限公司内蒙古分公司,内蒙古 Inner Mongolia,内蒙古,Cancel,商业公司,No,19,邓彦辉,Tier III,取消
+国药控股天津有限公司配送中心,Yes,DDI,华北 North,华北 North,天津市 Tianjin,国药 Sinopharm,51,39.12,117.2,国药控股天津有限公司配送中心,天津市 Tianjin,天津市,Successful-ongoing,商业公司,Yes,27,刘利峰,Tier III,有效
+国药控股宁德有限公司,No,Cancel,华东 East,华东 East,宁德市 Ningde,国药 Sinopharm,792,26.665617,119.547933,国药控股宁德有限公司,福建省 Fujian,福建省,Cancel,商业公司,No,4,何秀彬,Tier III,取消
+国药控股安庆有限公司,No,Cancel,华东 East,华东 East,安庆市 Anqing,国药 Sinopharm,4171,30.53,117.05,国药控股安庆有限公司,安徽省 Anhui,安徽省,Cancel,商业公司,No,1,殷波,Tier II,取消
+国药控股安徽有限公司,No,DDI,华东 East,华东 East,合肥市 Hefei,国药 Sinopharm,59,31.83,117.25,国药控股安徽有限公司,安徽省 Anhui,安徽省,Successful-ongoing,商业公司,Yes,1,殷波,Tier II,有效
+国药控股安阳有限公司,No,DDI,华东 East,华东 East,安阳市 Anyang,国药 Sinopharm,4897,36.1,114.38,国药控股安阳有限公司,河南省 Henan,河南省,Successful-ongoing,商业公司,Yes,12,李娟,Tier III,有效
+国药控股宜昌有限公司,No,Cancel,华南 South,华南 South,宜昌市 Yichang,国药 Sinopharm,4580,30.691967,111.286471,国药控股宜昌有限公司,湖北省 Hubei,湖北省,Cancel,商业公司,Yes,13,阮明,Tier III,取消
+国药控股山东有限公司,No,DDI,华东 East,华东 East,济南市 Jinan,国药 Sinopharm,1071,36.67,116.98,国药控股山东有限公司,山东省 Shandong,山东省,Successful-ongoing,商业公司,Yes,23,赵树峰,Tier II,有效
+国药控股山西临汾有限公司,No,DDI,华北 North,华北 North,临汾市 Linfen,国药 Sinopharm,5744,36.088005,111.518976,国药控股山西临汾有限公司,山西省 Shanxi,山西省,Successful-ongoing,商业公司,No,26,刘涛,Tier III,有效
+国药控股山西吕梁有限公司,No,DDI,华北 North,华北 North,吕梁市 Lvliang,国药 Sinopharm,5188,37.518314,111.144319,国药控股山西吕梁有限公司,山西省 Shanxi,山西省,Successful-ongoing,商业公司,No,26,刘涛,Tier III,有效
+国药控股山西晋中有限公司,No,DDI,华北 North,华北 North,晋中市 Jinzhong,国药 Sinopharm,8932,37.68,112.75,国药控股山西晋中有限公司,山西省 Shanxi,山西省,Successful-ongoing,商业公司,No,26,刘涛,Tier III,有效
+国药控股山西有限公司,No,DDI,华北 North,华北 North,太原市 Taiyuan,国药 Sinopharm,41,37.87,112.55,国药控股山西有限公司,山西省 Shanxi,山西省,Successful-ongoing,商业公司,Yes,26,刘涛,Tier II,有效
+国药控股山西有限公司大同分公司,No,DDI,华北 North,华北 North,大同市 Datong,国药 Sinopharm,4158,40.08,113.3,国药控股山西有限公司大同分公司,山西省 Shanxi,山西省,Successful-ongoing,商业公司,Yes,26,刘涛,Tier III,有效
+国药控股山西有限公司运城分公司,No,DDI,华北 North,华北 North,运城市 Yuncheng,国药 Sinopharm,7202,35.026412,111.007529,国药控股山西有限公司运城分公司,山西省 Shanxi,山西省,Successful-ongoing,商业公司,No,26,刘涛,Tier III,有效
+国药控股山西有限公司长治分公司,No,DDI,华北 North,华北 North,长治市 Changzhi,国药 Sinopharm,1072,36.2,113.12,国药控股山西有限公司长治分公司,山西省 Shanxi,山西省,Successful-ongoing,商业公司,Yes,26,刘涛,Tier III,有效
+国药控股山西阳泉有限公司,No,DDI,华北 North,华北 North,阳泉市 Yangquan,国药 Sinopharm,5768,37.856972,113.580519,国药控股山西阳泉有限公司,山西省 Shanxi,山西省,Successful-ongoing,商业公司,Yes,26,刘涛,Tier III,有效
+国药控股岳阳有限公司,No,DDI,华南 South,华南 South,岳阳市 Yueyang,国药 Sinopharm,5194,29.37,113.12,国药控股岳阳有限公司,湖南省 Hunan,湖南省,Successful-ongoing,商业公司,Yes,14,谭浪,Tier III,有效
+国药控股常州有限公司,No,Cancel,华东 East,华东 East,常州市 Changzhou,国药 Sinopharm,5984,31.78,119.95,国药控股常州有限公司,江苏省 Jiangsu,江苏省,Cancel,商业公司,No,16,吴敏良,Tier II,取消
+国药控股平顶山有限公司,No,DDI,华东 East,华东 East,平顶山市 Pingdingshan,国药 Sinopharm,5407,33.77,113.18,国药控股平顶山有限公司,河南省 Henan,河南省,Successful-ongoing,商业公司,Yes,12,李娟,Tier III,有效
+国药控股广州有限公司,No,DDI,华南 South,华南 South,广州市 Guangzhou,国药 Sinopharm,8142,23.13,113.27,国药控股广州有限公司,广东省 Guangdong,广东省,Follow-up,商业公司,Yes,5,庞洁瑜,Tier III,有效
+国药控股广西有限公司,Yes,DDI,华南 South,华南 South,南宁市 Nanning,国药 Sinopharm,133,22.82,108.37,国药控股广西有限公司,广西区 Guangxi,广西区,Successful-ongoing,商业公司,Yes,7,李新,Tier II,有效
+国药控股广西有限公司大药房,Yes,Cancel,华南 South,华南 South,南宁市 Nanning,国药 Sinopharm,7614,22.82,108.37,国药控股广西有限公司大药房,广西区 Guangxi,广西区,Cancel,药店,No,7,李新,Tier III,取消
+国药控股广西有限公司植物路大药房,Yes,DDI,华南 South,华南 South,南宁市 Nanning,国药 Sinopharm,9877,22.82,108.37,国药控股广西有限公司植物路大药房,广西区 Guangxi,广西区,Successful-ongoing,药店,No,7,李新,Tier III,有效
+国药控股延边有限公司,No,DDI,华北 North,华北 North,延边朝鲜族自治州 Yanbian,国药 Sinopharm,5982,42.891254,129.508946,国药控股延边有限公司,吉林省 Jilin,吉林省,Successful-ongoing,商业公司,Yes,15,李志群,Tier III,有效
+国药控股开封有限公司,No,DDI,华东 East,华东 East,开封市 Kaifeng,国药 Sinopharm,5972,34.8,114.3,国药控股开封有限公司,河南省 Henan,河南省,Successful-ongoing,商业公司,Yes,12,李娟,Tier III,有效
+国药控股徐州有限公司,No,DDI,华东 East,华东 East,徐州市 Xuzhou,国药 Sinopharm,5915,34.27,117.18,国药控股徐州有限公司,江苏省 Jiangsu,江苏省,Successful-ongoing,商业公司,Yes,16,殷波,Tier III,有效
+国药控股恩施有限公司,No,Cancel,华南 South,华南 South,恩施土家族苗族自治州 Enshi,国药 Sinopharm,6797,30.272156,109.488172,国药控股恩施有限公司,湖北省 Hubei,湖北省,Cancel,商业公司,Yes,13,阮明,Tier III,取消
+国药控股扬州有限公司,No,DDI,华东 East,华东 East,扬州市 Yangzhou,国药 Sinopharm,73,32.4,119.4,国药控股扬州有限公司,江苏省 Jiangsu,江苏省,Successful-ongoing,商业公司,Yes,16,殷波,Tier II,有效
+国药控股扬州有限公司中西药分公司,No,Cancel,华东 East,华东 East,扬州市 Yangzhou,国药 Sinopharm,1067,32.4,119.4,国药控股扬州有限公司中西药分公司,江苏省 Jiangsu,江苏省,Cancel,商业公司,Yes,16,殷波,Tier III,取消
+国药控股抚顺有限公司,No,DDI,华北 North,华北 North,抚顺市 Fushun,国药 Sinopharm,9025,41.88,123.98,国药控股抚顺有限公司,辽宁省 Liaoning,辽宁省,Successful-ongoing,商业公司,Yes,18,赵骏铭,Tier III,有效
+国药控股新乡有限公司,No,DDI,华东 East,华东 East,新乡市 Xinxiang,国药 Sinopharm,8725,35.3,113.9,国药控股新乡有限公司,河南省 Henan,河南省,Successful-ongoing,商业公司,Yes,12,李娟,Tier III,有效
+国药控股无锡有限公司,No,Cancel,华东 East,华东 East,无锡市 Wuxi,国药 Sinopharm,2916,31.57,120.3,国药控股无锡有限公司,江苏省 Jiangsu,江苏省,Cancel,商业公司,Yes,16,吴敏良,Tier III,取消
+国药控股柳州有限公司,Yes,DDI,华南 South,华南 South,柳州市 Liuzhou,国药 Sinopharm,1069,24.33,109.42,国药控股柳州有限公司,广西区 Guangxi,广西区,Successful-ongoing,商业公司,No,7,李新,Tier III,有效
+国药控股梧州有限公司,No,Cancel,华南 South,华南 South,梧州市 Wuzhou,国药 Sinopharm,131,23.48,111.27,国药控股梧州有限公司,广西区 Guangxi,广西区,Cancel,商业公司,No,7,李新,Tier III,取消
+国药控股武汉有限公司,No,Cancel,华南 South,华南 South,武汉市 Wuhan,国药 Sinopharm,5326,30.6,114.3,国药控股武汉有限公司,湖北省 Hubei,湖北省,Cancel,商业公司,No,13,阮明,Tier III,取消
+国药控股江西有限公司,No,Cancel,华东 East,华东 East,南昌市 Nanchang,国药 Sinopharm,4062,28.68,115.85,国药控股江西有限公司,江西省 Jiangxi,江西省,Cancel,商业公司,No,17,陈超,Tier III,取消
+国药控股沈阳有限公司,No,DDI,华北 North,华北 North,沈阳市 Shenyang,国药 Sinopharm,29,41.8,123.43,国药控股沈阳有限公司,辽宁省 Liaoning,辽宁省,Successful-ongoing,商业公司,Yes,18,赵骏铭,Tier II,有效
+国药控股沈阳有限公司大连分公司,No,Cancel,华北 North,华北 North,大连市 Dalian,国药 Sinopharm,1074,38.92,121.62,国药控股沈阳有限公司大连分公司,辽宁省 Liaoning,辽宁省,Cancel,商业公司,No,18,李志群,Tier III,取消
+国药控股河北医药有限公司,No,Cancel,华北 North,华北 North,石家庄市 Shijiazhuang,国药 Sinopharm,5037,38.05,114.52,国药控股河北医药有限公司,河北省 Hebei,河北省,Cancel,商业公司,No,9,刘涛,Tier III,取消
+国药控股河北有限公司唐山分公司-取消,No,Cancel,华北 North,华北 North,唐山市 Tangshan,国药 Sinopharm,15,39.63,118.2,国药控股河北有限公司唐山分公司-取消,河北省 Hebei,河北省,Cancel,商业公司,No,9,刘涛,Tier III,取消
+国药控股河南股份有限公司,No,DDI,华东 East,华东 East,郑州市 Zhengzhou,国药 Sinopharm,1064,34.75,113.62,国药控股河南股份有限公司,河南省 Henan,河南省,Successful-ongoing,商业公司,Yes,12,李娟,Tier II,有效
+国药控股泉州有限公司,No,DDI,华东 East,华东 East,泉州市 Quanzhou,其他 Others,61,24.88,118.67,国药控股泉州有限公司,福建省 Fujian,福建省,Successful-ongoing,商业公司,No,4,何秀彬,Tier II,有效
+国药控股洛阳有限公司,No,DDI,华东 East,华东 East,洛阳市 Luoyang,国药 Sinopharm,7654,34.62,112.45,国药控股洛阳有限公司,河南省 Henan,河南省,Successful-ongoing,商业公司,Yes,12,李娟,Tier III,有效
+国药控股济宁有限公司,No,Cancel,华东 East,华东 East,济宁市 Jining,国药 Sinopharm,6621,35.42,116.58,国药控股济宁有限公司,山东省 Shandong,山东省,Cancel,商业公司,Yes,23,赵树峰,Tier III,取消
+国药控股浙江有限公司,No,DDI,华东 East,华东 East,杭州市 Hangzhou,国药 Sinopharm,4268,30.28,120.15,国药控股浙江有限公司,浙江省 Zhejiang,浙江省,Successful-ongoing,商业公司,Yes,31,陈小锋,Tier II,有效
+国药控股海南有限公司,No,DDI,华南 South,华南 South,海口市 Haikou,国药 Sinopharm,138,20.03,110.32,国药控股海南有限公司,海南省 Hainan,海南省,Successful-ongoing,商业公司,Yes,11,曾东旗,Tier II,有效
+国药控股海南鸿益有限公司,No,DDI,华南 South,华南 South,海口市 Haikou,国药 Sinopharm,137,20.03,110.32,国药控股海南鸿益有限公司,海南省 Hainan,海南省,Successful-ongoing,商业公司,Yes,11,曾东旗,Tier II,有效
+国药控股淮南有限公司,No,Cancel,华东 East,华东 East,淮南市 Huainan,国药 Sinopharm,5535,32.63,117,国药控股淮南有限公司,安徽省 Anhui,安徽省,Cancel,商业公司,No,1,殷波,Tier III,取消
+国药控股深圳市延风医药有限公司,No,DDI,华南 South,华南 South,深圳市 Shenzhen,国药 Sinopharm,127,22.55,114.05,国药控股深圳市延风医药有限公司,广东省 Guangdong,广东省,Successful-ongoing,商业公司,No,5,林珏峰,Tier II,有效
+国药控股温州有限公司,No,DDI,华东 East,华东 East,温州市 Wenzhou,国药 Sinopharm,102,28,120.7,国药控股温州有限公司,浙江省 Zhejiang,浙江省,Successful-ongoing,商业公司,Yes,31,陈小锋,Tier II,有效
+国药控股湖北有限公司,No,DDI,华南 South,华南 South,武汉市 Wuhan,国药 Sinopharm,139,30.6,114.3,国药控股湖北有限公司,湖北省 Hubei,湖北省,Successful-ongoing,商业公司,Yes,13,阮明,Tier II,有效
+国药控股湖北江汉有限公司,No,Cancel,华东 East,华东 East,省直辖县级行政区划 Municipality,国药 Sinopharm,8287,35.067243,112.601919,国药控股湖北江汉有限公司,河南省 Henan,湖北省,Cancel,商业公司,No,13,阮明,Tier III,取消
+国药控股湖北江汉有限公司,No,Cancel,华东 East,华北 North,省直辖县级行政区划 Municipality,国药 Sinopharm,8287,40.547653,81.280527,国药控股湖北江汉有限公司,新疆区 Xinjiang,湖北省,Cancel,商业公司,No,13,阮明,Tier III,取消
+国药控股湖北江汉有限公司,No,Cancel,华南 South,华南 South,省直辖县级行政区划 Municipality,国药 Sinopharm,8287,19.216056,109.358586,国药控股湖北江汉有限公司,海南省 Hainan,湖北省,Cancel,商业公司,No,13,阮明,Tier III,取消
+国药控股湖北江汉有限公司,No,Cancel,华南 South,华南 South,省直辖县级行政区划 Municipality,国药 Sinopharm,8287,30.40211,112.900079,国药控股湖北江汉有限公司,湖北省 Hubei,湖北省,Cancel,商业公司,No,13,阮明,Tier III,取消
+国药控股湖南有限公司,No,DDI,华南 South,华南 South,长沙市 Changsha,国药 Sinopharm,143,28.23,112.93,国药控股湖南有限公司,湖南省 Hunan,湖南省,Successful-ongoing,商业公司,Yes,14,谭浪,Tier II,有效
+国药控股湘潭有限公司,No,DDI,华南 South,华南 South,湘潭市 Xiangtan,国药 Sinopharm,5316,27.83,112.93,国药控股湘潭有限公司,湖南省 Hunan,湖南省,Successful-ongoing,商业公司,No,14,谭浪,Tier III,有效
+国药控股湘西有限公司,No,DDI,华南 South,华南 South,湘西土家族苗族自治州 Xiangxi,国药 Sinopharm,5317,28.311948,109.739172,国药控股湘西有限公司,湖南省 Hunan,湖南省,Successful-ongoing,商业公司,Yes,14,谭浪,Tier III,有效
+国药控股湛江有限公司,No,DDI,华南 South,华南 South,湛江市 Zhanjiang,国药 Sinopharm,4103,21.27,110.35,国药控股湛江有限公司,广东省 Guangdong,广东省,Successful-ongoing,商业公司,Yes,5,庞洁瑜,Tier II,有效
+国药控股濮阳有限公司,No,DDI,华东 East,华东 East,濮阳市 Puyang,国药 Sinopharm,5335,35.77,115.03,国药控股濮阳有限公司,河南省 Henan,河南省,Successful-ongoing,商业公司,Yes,12,李娟,Tier III,有效
+国药控股烟台有限公司,No,Cancel,华东 East,华东 East,烟台市 Yantai,国药 Sinopharm,84,37.45,121.43,国药控股烟台有限公司,山东省 Shandong,山东省,Cancel,商业公司,Yes,23,赵树峰,Tier III,取消
+国药控股焦作有限公司,No,Cancel,华东 East,华东 East,焦作市 Jiaozuo,国药 Sinopharm,5336,35.22,113.25,国药控股焦作有限公司,河南省 Henan,河南省,Cancel,商业公司,Yes,12,李娟,Tier III,取消
+国药控股石家庄有限公司,No,Cancel,华北 North,华北 North,石家庄市 Shijiazhuang,国药 Sinopharm,5038,38.05,114.52,国药控股石家庄有限公司,河北省 Hebei,河北省,Cancel,商业公司,Yes,9,刘涛,Tier III,取消
+国药控股福州有限公司,No,DDI,华东 East,华东 East,福州市 Fuzhou,国药 Sinopharm,5431,26.08,119.3,国药控股福州有限公司,福建省 Fujian,福建省,Successful-ongoing,商业公司,No,4,何秀彬,Tier II,有效
+国药控股福建有限公司,No,Cancel,华东 East,华东 East,厦门市 Xiamen,国药 Sinopharm,4636,24.48,118.08,国药控股福建有限公司,福建省 Fujian,福建省,Cancel,商业公司,No,4,何秀彬,Tier III,取消
+国药控股绵阳医药有限公司,No,Cancel,华南 South,华南 South,绵阳市 Mianyang,国药 Sinopharm,7309,31.47,104.73,国药控股绵阳医药有限公司,四川省 Sichuan,四川省,Cancel,商业公司,No,22,王东,Tier III,取消
+国药控股芜湖有限公司,No,DDI,华东 East,华东 East,芜湖市 Wuhu,国药 Sinopharm,5985,31.33,118.38,国药控股芜湖有限公司,安徽省 Anhui,安徽省,Successful-ongoing,商业公司,Yes,1,殷波,Tier III,有效
+国药控股荆州有限公司,No,Cancel,华南 South,华南 South,荆州市 Jingzhou,国药 Sinopharm,4927,30.33,112.23,国药控股荆州有限公司,湖北省 Hubei,湖北省,Cancel,商业公司,Yes,13,阮明,Tier III,取消
+国药控股荆门有限公司,No,Cancel,华南 South,华南 South,荆门市 Jingmen,国药 Sinopharm,7655,31.035423,112.199265,国药控股荆门有限公司,湖北省 Hubei,湖北省,Cancel,商业公司,Yes,13,阮明,Tier III,取消
+国药控股蚌埠有限公司,No,Cancel,华东 East,华东 East,蚌埠市 Bengbu,国药 Sinopharm,5177,32.92,117.38,国药控股蚌埠有限公司,安徽省 Anhui,安徽省,Cancel,商业公司,No,1,殷波,Tier III,取消
+国药控股襄樊有限公司,No,Cancel,华南 South,华南 South,襄阳市 Xiangyang,国药 Sinopharm,5031,32.02,112.15,国药控股襄樊有限公司,湖北省 Hubei,湖北省,Cancel,商业公司,No,13,阮明,Tier III,取消
+国药控股贵州有限公司,No,DDI,华南 South,华南 South,贵阳市 Guiyang,国药 Sinopharm,4561,26.65,106.63,国药控股贵州有限公司,贵州省 Guizhou,贵州省,Successful-ongoing,商业公司,No,8,刘鹏程,Tier II,有效
+国药控股郴州有限公司,No,DDI,华南 South,华南 South,郴州市 Chenzhou,国药 Sinopharm,5184,25.78,113.02,国药控股郴州有限公司,湖南省 Hunan,湖南省,Successful-ongoing,商业公司,Yes,14,谭浪,Tier III,有效
+国药控股重庆有限公司,No,Cancel,华南 South,华南 South,重庆市 Chongqing,其他 Others,4271,29.57,106.55,国药控股重庆有限公司,重庆市 Chongqing,重庆市,Cancel,商业公司,No,3,朱虹,Tier III,取消
+国药控股锦州有限公司,Yes,DDI,华北 North,华北 North,锦州市 Jinzhou,国药 Sinopharm,5193,41.1,121.13,国药控股锦州有限公司,辽宁省 Liaoning,辽宁省,Successful-ongoing,商业公司,Yes,18,赵骏铭,Tier III,有效
+国药控股陕西有限公司,No,Cancel,华东 East,华北 North,西安市 Xi'an,国药 Sinopharm,44,34.27,108.93,国药控股陕西有限公司,陕西省 Shaanxi,陕西省,Cancel,商业公司,Yes,25,王晓理,Tier II,取消
+国药控股青岛有限公司,No,Cancel,华东 East,华东 East,青岛市 Qingdao,国药 Sinopharm,5412,36.07,120.38,国药控股青岛有限公司,山东省 Shandong,山东省,Cancel,商业公司,Yes,23,赵树峰,Tier III,取消
+国药控股青海有限公司,No,DDI,华东 East,华北 North,西宁市 Xining,国药 Sinopharm,6348,36.62,101.78,国药控股青海有限公司,青海省 Qinghai,青海省,Successful-ongoing,商业公司,Yes,21,王晓理,Tier II,有效
+国药控股鞍山有限公司,No,DDI,华北 North,华北 North,鞍山市 Anshan,国药 Sinopharm,8899,41.1,122.98,国药控股鞍山有限公司,辽宁省 Liaoning,辽宁省,Successful-ongoing,商业公司,Yes,18,赵骏铭,Tier III,有效
+国药控股驻马店有限公司,No,DDI,华东 East,华东 East,驻马店市 Zhumadian,国药 Sinopharm,7530,32.98,114.02,国药控股驻马店有限公司,河南省 Henan,河南省,Successful-ongoing,商业公司,Yes,12,李娟,Tier III,有效
+国药控股黄冈有限公司,No,Cancel,华南 South,华南 South,黄冈市 Huanggang,国药 Sinopharm,8106,30.45,114.87,国药控股黄冈有限公司,湖北省 Hubei,湖北省,Cancel,商业公司,Yes,13,阮明,Tier III,取消
+国药控股黄石有限公司,No,Cancel,华南 South,华南 South,黄石市 Huangshi,国药 Sinopharm,4928,30.2,115.03,国药控股黄石有限公司,湖北省 Hubei,湖北省,Cancel,商业公司,Yes,13,阮明,Tier III,取消
+国药控股黑龙江有限公司,Yes,DDI,华北 North,华北 North,哈尔滨市 Harbin,国药 Sinopharm,1075,45.8,126.53,国药控股黑龙江有限公司,黑龙江 Heilongjiang,黑龙江,Successful-ongoing,商业公司,Yes,10,徐建超,Tier III,有效
+国药控股龙岩有限公司,No,DDI,华东 East,华东 East,龙岩市 Longyan,国药 Sinopharm,5192,25.1,117.03,国药控股龙岩有限公司,福建省 Fujian,福建省,Successful-ongoing,商业公司,No,4,何秀彬,Tier III,有效
+国药河北乐仁堂医药连锁有限公司,No,No DDI,华北 North,华北 North,石家庄市 Shijiazhuang,国药 Sinopharm,7574,38.05,114.52,国药河北乐仁堂医药连锁有限公司,河北省 Hebei,河北省,Mail/Weekly,药店,No,9,刘涛,Tier III,有效
+国药集团临汾有限公司,No,DDI,华北 North,华北 North,临汾市 Linfen,国药 Sinopharm,9837,36.088005,111.518976,国药集团临汾有限公司,山西省 Shanxi,山西省,Follow-up,商业公司,No,26,刘涛,Tier III,有效
+国药集团山西有限公司,No,DDI,华北 North,华北 North,太原市 Taiyuan,国药 Sinopharm,42,37.87,112.55,国药集团山西有限公司,山西省 Shanxi,山西省,Successful-ongoing,商业公司,Yes,26,刘涛,Tier II,有效
+国药集团山西有限公司零售一部,No,Cancel,华北 North,华北 North,太原市 Taiyuan,国药 Sinopharm,7563,37.87,112.55,国药集团山西有限公司零售一部,山西省 Shanxi,山西省,Cancel,药店,No,26,刘涛,Tier III,取消
+国药集团攀枝花医药有限公司,Yes,DDI,华南 South,华南 South,攀枝花市 Panzhihua,国药 Sinopharm,5957,26.58,101.72,国药集团攀枝花医药有限公司,四川省 Sichuan,四川省,Successful-ongoing,商业公司,No,22,王东,Tier III,有效
+国药集团新疆新特药业有限公司,No,DDI,华东 East,华北 North,乌鲁木齐市 Urumqi,国药 Sinopharm,57,43.82,87.62,国药集团新疆新特药业有限公司,新疆区 Xinjiang,新疆区,Successful-ongoing,商业公司,Yes,28,薛岩,Tier II,有效
+国药集团药业股份有限公司,Yes,DDI,华北 North,华北 North,北京市 Beijing,国药 Sinopharm,9,39.9,116.4,国药集团药业股份有限公司,北京市 Beijing,北京市,Successful-ongoing,商业公司,Yes,2,张伟,Tier II,有效
+国药集团西南医药有限公司,Yes,DDI,华南 South,华南 South,成都市 Chengdu,国药 Sinopharm,147,30.67,104.07,国药集团西南医药有限公司,四川省 Sichuan,四川省,Successful-ongoing,商业公司,Yes,22,王东,Tier II,有效
+国药集团西南医药泸州有限公司,Yes,DDI,华南 South,华南 South,泸州市 Luzhou,国药 Sinopharm,7445,28.87,105.43,国药集团西南医药泸州有限公司,四川省 Sichuan,四川省,Successful-ongoing,商业公司,Yes,22,王东,Tier III,有效
+国药集团西南医药自贡有限公司,Yes,DDI,华南 South,华南 South,自贡市 Zigong,国药 Sinopharm,7502,29.35,104.78,国药集团西南医药自贡有限公司,四川省 Sichuan,四川省,Successful-ongoing,商业公司,Yes,22,王东,Tier III,有效
+大庆三元医药有限公司,No,Cancel,华北 North,华北 North,大庆市 Daqing,其他 Others,703,46.58,125.03,大庆三元医药有限公司,黑龙江 Heilongjiang,黑龙江,Cancel,商业公司,No,10,徐建超,Tier III,取消
+大连中大药业有限公司,No,DDI,华北 North,华北 North,大连市 Dalian,上药 Shanghai Pharma,28,38.92,121.62,大连中大药业有限公司,辽宁省 Liaoning,辽宁省,Successful-ongoing,商业公司,No,18,李志群,Tier II,有效
+大连中大药业有限公司零售部,No,DDI,华北 North,华北 North,大连市 Dalian,上药 Shanghai Pharma,7570,38.92,121.62,大连中大药业有限公司零售部,辽宁省 Liaoning,辽宁省,Successful-ongoing,药店,No,18,李志群,Tier III,有效
+大连九州通医药有限公司,No,DDI,华北 North,华北 North,大连市 Dalian,九州通 Jointown,9158,38.92,121.62,大连九州通医药有限公司,辽宁省 Liaoning,辽宁省,Successful-ongoing,商业公司,No,18,李志群,Tier III,有效
+大连和成药业有限公司,No,DDI,华北 North,华北 North,大连市 Dalian,其他 Others,27,38.92,121.62,大连和成药业有限公司,辽宁省 Liaoning,辽宁省,Successful-ongoing,商业公司,Yes,18,李志群,Tier II,有效
+天津九州通达医药有限公司,No,DDI,华北 North,华北 North,天津市 Tianjin,九州通 Jointown,5847,39.12,117.2,天津九州通达医药有限公司,天津市 Tianjin,天津市,Successful-ongoing,商业公司,Yes,27,邓彦辉,Tier III,有效
+天津信海科园大药房有限公司,Yes,DDI,华北 North,华北 North,天津市 Tianjin,上药 Shanghai Pharma,5059,39.12,117.2,天津信海科园大药房有限公司,天津市 Tianjin,天津市,Successful-ongoing,药店,No,27,刘利峰,Tier II,有效
+天津医药集团太平医药有限公司,No,Cancel,华北 North,华北 North,天津市 Tianjin,其他 Others,54,39.12,117.2,天津医药集团太平医药有限公司,天津市 Tianjin,天津市,Cancel,商业公司,Yes,27,邓彦辉,Tier III,取消
+天津医药集团太平医药有限公司新药特药分公司,No,Cancel,华北 North,华北 North,天津市 Tianjin,其他 Others,55,39.12,117.2,天津医药集团太平医药有限公司新药特药分公司,天津市 Tianjin,天津市,Cancel,商业公司,Yes,27,邓彦辉,Tier III,取消
+天津博康胜家大药房有限公司,No,DDI,华北 North,华北 North,天津市 Tianjin,国药 Sinopharm,52,39.12,117.2,天津博康胜家大药房有限公司,天津市 Tianjin,天津市,Successful-ongoing,药店,No,27,刘利峰,Tier III,有效
+天津国药渤海医药有限公司,No,DDI,华北 North,华北 North,天津市 Tianjin,其他 Others,2757,39.12,117.2,天津国药渤海医药有限公司,天津市 Tianjin,天津市,Follow-up,商业公司,Yes,27,刘利峰,Tier III,有效
+天津市志来医药有限公司,No,Cancel,华北 North,华北 North,天津市 Tianjin,其他 Others,3855,39.12,117.2,天津市志来医药有限公司,天津市 Tianjin,天津市,Cancel,商业公司,No,27,刘利峰,Tier III,取消
+太极集团重庆市沙坪坝区医药有限公司,No,Cancel,华南 South,华南 South,重庆市 Chongqing,其他 Others,2723,29.57,106.55,太极集团重庆市沙坪坝区医药有限公司,重庆市 Chongqing,重庆市,Cancel,商业公司,No,3,朱虹,Tier III,取消
+奎屯九州通医药有限公司,No,DDI,华东 East,华北 North,伊犁哈萨克自治州 Ili Kazak,九州通 Jointown,6136,43.916862,81.324096,奎屯九州通医药有限公司,新疆区 Xinjiang,新疆区,Successful-ongoing,商业公司,Yes,28,薛岩,Tier III,有效
+威海海王医药有限公司,No,Cancel,华东 East,华东 East,威海市 Weihai,其他 Others,5131,37.52,122.12,威海海王医药有限公司,山东省 Shandong,山东省,Cancel,商业公司,Yes,23,赵树峰,Tier III,取消
+宁夏众欣联合中信医药有限公司,No,DDI,华东 East,华北 North,银川市 Yinchuan,其他 Others,39,38.47,106.28,宁夏众欣联合中信医药有限公司,宁夏区 Ningxia,宁夏区,Successful-ongoing,商业公司,Yes,20,王晓理,Tier II,有效
+宁夏华源耀康医药有限公司,No,DDI,华东 East,华北 North,银川市 Yinchuan,其他 Others,38,38.47,106.28,宁夏华源耀康医药有限公司,宁夏区 Ningxia,宁夏区,Successful-ongoing,商业公司,No,20,王晓理,Tier II,有效
+宁德鹭燕医药有限公司,Yes,DDI,华东 East,华东 East,宁德市 Ningde,其他 Others,4855,26.665617,119.547933,宁德鹭燕医药有限公司,福建省 Fujian,福建省,Successful-ongoing,商业公司,Yes,4,何秀彬,Tier III,有效
+宁波医药股份有限公司,No,DDI,华东 East,华东 East,宁波市 Ningbo,上药 Shanghai Pharma,101,29.88,121.55,宁波医药股份有限公司,浙江省 Zhejiang,浙江省,Successful-ongoing,商业公司,Yes,31,陈小锋,Tier II,有效
+宁波宝瑞达医药有限公司,No,Cancel,华东 East,华东 East,宁波市 Ningbo,其他 Others,3420,29.88,121.55,宁波宝瑞达医药有限公司,浙江省 Zhejiang,浙江省,Cancel,商业公司,No,31,陈小锋,Tier III,取消
+宁波市镇海医药药材有限责任公司,No,Cancel,华东 East,华东 East,宁波市 Ningbo,其他 Others,2130,29.88,121.55,宁波市镇海医药药材有限责任公司,浙江省 Zhejiang,浙江省,Cancel,商业公司,No,31,陈磊,Tier II,取消
+安徽东升医药有限公司,No,Cancel,华东 East,华东 East,淮北市 Huaibei,其他 Others,252,33.95,116.8,安徽东升医药有限公司,安徽省 Anhui,安徽省,Cancel,商业公司,No,1,殷波,Tier III,取消
+安徽丰原医药营销有限公司,No,Cancel,华东 East,华东 East,合肥市 Hefei,其他 Others,5669,31.83,117.25,安徽丰原医药营销有限公司,安徽省 Anhui,安徽省,Cancel,商业公司,No,1,殷波,Tier III,取消
+安徽九州通医药有限公司,No,DDI,华东 East,华东 East,合肥市 Hefei,九州通 Jointown,262,31.83,117.25,安徽九州通医药有限公司,安徽省 Anhui,安徽省,Successful-ongoing,商业公司,No,1,殷波,Tier III,有效
+安徽华宁医药物流有限公司,No,Cancel,华东 East,华东 East,合肥市 Hefei,其他 Others,5570,31.83,117.25,安徽华宁医药物流有限公司,安徽省 Anhui,安徽省,Cancel,商业公司,No,1,殷波,Tier III,取消
+安徽天禾药业有限责任公司,No,DDI,华东 East,华东 East,安庆市 Anqing,其他 Others,279,30.53,117.05,安徽天禾药业有限责任公司,安徽省 Anhui,安徽省,Successful-ongoing,商业公司,Yes,1,殷波,Tier III,有效
+安徽省医药(集团)股份有限公司,No,DDI,华东 East,华东 East,合肥市 Hefei,其他 Others,58,31.83,117.25,安徽省医药(集团)股份有限公司,安徽省 Anhui,安徽省,Successful-ongoing,商业公司,Yes,1,殷波,Tier II,有效
+安徽省医药(集团)股份有限公司医药分公司,No,Cancel,华东 East,华东 East,合肥市 Hefei,其他 Others,275,31.83,117.25,安徽省医药(集团)股份有限公司医药分公司,安徽省 Anhui,安徽省,Cancel,商业公司,No,1,殷波,Tier II,取消
+安阳泰利信药业有限责任公司,No,Cancel,华东 East,华东 East,安阳市 Anyang,其他 Others,290,36.1,114.38,安阳泰利信药业有限责任公司,河南省 Henan,河南省,Cancel,商业公司,No,12,李娟,Tier III,取消
+宜兴市康泰物资公司,No,Cancel,华东 East,华东 East,无锡市 Wuxi,其他 Others,3222,31.57,120.3,宜兴市康泰物资公司,江苏省 Jiangsu,江苏省,Cancel,商业公司,No,16,殷波,Tier II,取消
+宜宾众生医药有限公司,Yes,DDI,华南 South,华南 South,宜宾市 Yibin,其他 Others,3214,28.77,104.62,宜宾众生医药有限公司,四川省 Sichuan,四川省,Successful-ongoing,商业公司,No,22,王东,Tier III,有效
+宜昌九州通医药有限公司,No,DDI,华南 South,华南 South,宜昌市 Yichang,九州通 Jointown,5757,30.691967,111.286471,宜昌九州通医药有限公司,湖北省 Hubei,湖北省,Successful-ongoing,商业公司,Yes,13,阮明,Tier III,有效
+宜昌市康鑫医药经销有限公司,No,Cancel,华南 South,华南 South,宜昌市 Yichang,其他 Others,3218,30.691967,111.286471,宜昌市康鑫医药经销有限公司,湖北省 Hubei,湖北省,Cancel,商业公司,Yes,13,阮明,Tier III,取消
+宜昌市瑞康医药有限责任公司,No,Cancel,华南 South,华南 South,宜昌市 Yichang,其他 Others,3219,30.691967,111.286471,宜昌市瑞康医药有限责任公司,湖北省 Hubei,湖北省,Cancel,商业公司,No,13,阮明,Tier III,取消
+山东九州通医药有限公司,No,DDI,华东 East,华东 East,济南市 Jinan,九州通 Jointown,2274,36.67,116.98,山东九州通医药有限公司,山东省 Shandong,山东省,Successful-ongoing,商业公司,Yes,23,赵树峰,Tier III,有效
+山东宏济堂医药集团有限公司,No,Cancel,华东 East,华东 East,济南市 Jinan,其他 Others,1608,36.67,116.98,山东宏济堂医药集团有限公司,山东省 Shandong,山东省,Cancel,商业公司,No,23,赵树峰,Tier III,取消
+山东容大医药有限公司,No,DDI,华东 East,华东 East,泰安市 Tai'an,其他 Others,2287,36.2,117.08,山东容大医药有限公司,山东省 Shandong,山东省,Successful-ongoing,商业公司,Yes,23,赵树峰,Tier III,有效
+山东新兖医药有限公司,No,DDI,华东 East,华东 East,济南市 Jinan,其他 Others,8694,36.67,116.98,山东新兖医药有限公司,山东省 Shandong,山东省,Successful-ongoing,商业公司,Yes,23,赵树峰,Tier III,有效
+山东海王银河医药有限公司,No,DDI,华东 East,华东 East,潍坊市 Weifang,其他 Others,88,36.7,119.15,山东海王银河医药有限公司,山东省 Shandong,山东省,Successful-ongoing,商业公司,Yes,23,赵树峰,Tier II,有效
+山东海王银河医药有限公司临沂分公司,No,Cancel,华东 East,华东 East,临沂市 Linyi,其他 Others,2263,35.05,118.35,山东海王银河医药有限公司临沂分公司,山东省 Shandong,山东省,Cancel,商业公司,No,23,赵树峰,Tier III,取消
+山东海王银河医药有限公司济宁分公司,No,Cancel,华东 East,华东 East,济宁市 Jining,其他 Others,2262,35.42,116.58,山东海王银河医药有限公司济宁分公司,山东省 Shandong,山东省,Cancel,商业公司,Yes,23,赵树峰,Tier III,取消
+山东瑞康医药股份有限公司,Yes,DDI,华东 East,华东 East,烟台市 Yantai,其他 Others,3725,37.45,121.43,山东瑞康医药股份有限公司,山东省 Shandong,山东省,Successful-ongoing,商业公司,Yes,23,赵树峰,Tier III,有效
+山东生化药业有限责任公司,No,Cancel,华东 East,华东 East,济南市 Jinan,其他 Others,89,36.67,116.98,山东生化药业有限责任公司,山东省 Shandong,山东省,Cancel,商业公司,No,23,赵树峰,Tier III,取消
+山东齐都医药贸易有限公司,No,Cancel,华东 East,华东 East,淄博市 Zibo,其他 Others,2285,36.82,118.05,山东齐都医药贸易有限公司,山东省 Shandong,山东省,Cancel,商业公司,No,23,赵树峰,Tier III,取消
+山西九州通医药有限公司,No,DDI,华北 North,华北 North,太原市 Taiyuan,九州通 Jointown,9095,37.87,112.55,山西九州通医药有限公司,山西省 Shanxi,山西省,Successful-ongoing,商业公司,No,26,刘涛,Tier III,有效
+山西九州通医药有限公司运城分公司,No,DDI,华北 North,华北 North,运城市 Yuncheng,九州通 Jointown,9432,35.026412,111.007529,山西九州通医药有限公司运城分公司,山西省 Shanxi,山西省,Successful-ongoing,商业公司,No,26,刘涛,Tier III,有效
+山西信成药业有限公司,No,Cancel,华北 North,华北 North,太原市 Taiyuan,其他 Others,3946,37.87,112.55,山西信成药业有限公司,山西省 Shanxi,山西省,Cancel,商业公司,No,26,刘涛,Tier III,取消
+山西同丰医药物流有限公司,No,Cancel,华北 North,华北 North,太原市 Taiyuan,其他 Others,2371,37.87,112.55,山西同丰医药物流有限公司,山西省 Shanxi,山西省,Cancel,商业公司,No,26,刘涛,Tier III,取消
+山西景康药业有限公司,No,Cancel,华北 North,华北 North,太原市 Taiyuan,其他 Others,2332,37.87,112.55,山西景康药业有限公司,山西省 Shanxi,山西省,Cancel,商业公司,No,26,刘涛,Tier III,取消
+山西省临汾市医药药材公司,No,Cancel,华北 North,华北 North,临汾市 Linfen,国药 Sinopharm,2361,36.088005,111.518976,山西省临汾市医药药材公司,山西省 Shanxi,山西省,Cancel,商业公司,Yes,26,刘涛,Tier III,取消
+常州上药众协大药房有限公司,No,DDI,华东 East,华东 East,常州市 Changzhou,上药 Shanghai Pharma,4889,31.78,119.95,常州上药众协大药房有限公司,江苏省 Jiangsu,江苏省,Successful-ongoing,药店,No,16,葛爱,Tier III,有效
+常州药业股份有限公司医药药材分公司,No,DDI,华东 East,华东 East,常州市 Changzhou,上药 Shanghai Pharma,72,31.78,119.95,常州药业股份有限公司医药药材分公司,江苏省 Jiangsu,江苏省,Successful-ongoing,商业公司,Yes,16,葛爱,Tier II,有效
+常熟市建发医药有限公司,No,Cancel,华东 East,华东 East,苏州市 Suzhou,其他 Others,619,31.3,120.58,常熟市建发医药有限公司,江苏省 Jiangsu,江苏省,Cancel,商业公司,Yes,16,殷波,Tier II,取消
+广东东方新特药公司,No,DDI,华南 South,华南 South,广州市 Guangzhou,国药 Sinopharm,110,23.13,113.27,广东东方新特药公司,广东省 Guangdong,广东省,Successful-ongoing,商业公司,No,5,林珏峰,Tier II,有效
+广东中健医药有限公司-取消,No,Cancel,华南 South,华南 South,广州市 Guangzhou,其他 Others,117,23.13,113.27,广东中健医药有限公司-取消,广东省 Guangdong,广东省,Cancel,商业公司,No,5,庞洁瑜,Tier III,取消
+广东九州通医药有限公司,No,DDI,华南 South,华南 South,中山市 Zhongshan,九州通 Jointown,890,22.52,113.38,广东九州通医药有限公司,广东省 Guangdong,广东省,Successful-ongoing,商业公司,Yes,5,庞洁瑜,Tier II,有效
+广东健元药业有限公司,No,Cancel,华南 South,华南 South,广州市 Guangzhou,其他 Others,125,23.13,113.27,广东健元药业有限公司,广东省 Guangdong,广东省,Cancel,商业公司,No,5,林珏峰,Tier II,取消
+广东振宁医药集团贸易有限公司,No,Cancel,华南 South,华南 South,广州市 Guangzhou,其他 Others,116,23.13,113.27,广东振宁医药集团贸易有限公司,广东省 Guangdong,广东省,Cancel,商业公司,No,5,林珏峰,Tier III,取消
+广东省东莞国药集团有限公司,No,DDI,华南 South,华南 South,东莞市 Dongguan,国药 Sinopharm,112,23.05,113.75,广东省东莞国药集团有限公司,广东省 Guangdong,广东省,Successful-ongoing,商业公司,Yes,5,林珏峰,Tier II,有效
+广东省东莞市医药有限公司,No,Cancel,华南 South,华南 South,东莞市 Dongguan,其他 Others,113,23.05,113.75,广东省东莞市医药有限公司,广东省 Guangdong,广东省,Cancel,商业公司,Yes,5,庞洁瑜,Tier III,取消
+广东省梅县医药有限公司,No,DDI,华南 South,华南 South,梅州市 Meizhou,广药 Guangzhou Pharma,114,24.28,116.12,广东省梅县医药有限公司,广东省 Guangdong,广东省,Successful-ongoing,商业公司,No,5,林珏峰,Tier II,有效
+广东省药品有限公司,No,No DDI,华南 South,华南 South,广州市 Guangzhou,其他 Others,115,23.13,113.27,广东省药品有限公司,广东省 Guangdong,广东省,Designated/Monthly/Website,商业公司,No,5,庞洁瑜,Tier III,有效
+广东韶关药业有限责任公司,No,Cancel,华南 South,华南 South,韶关市 Shaoguan,其他 Others,902,24.82,113.6,广东韶关药业有限责任公司,广东省 Guangdong,广东省,Cancel,商业公司,No,5,庞洁瑜,Tier III,取消
+广州一致药店连锁有限公司,No,Cancel,华南 South,华南 South,广州市 Guangzhou,其他 Others,111,23.13,113.27,广州一致药店连锁有限公司,广东省 Guangdong,广东省,Cancel,药店,No,5,林珏峰,Tier III,取消
+广州中山医医药有限公司,No,DDI,华南 South,华南 South,广州市 Guangzhou,上药 Shanghai Pharma,1026,23.13,113.27,广州中山医医药有限公司,广东省 Guangdong,广东省,Successful-ongoing,商业公司,Yes,5,庞洁瑜,Tier II,有效
+广州九州通医药有限公司,No,DDI,华南 South,华南 South,广州市 Guangzhou,九州通 Jointown,4300,23.13,113.27,广州九州通医药有限公司,广东省 Guangdong,广东省,Successful-ongoing,商业公司,No,5,庞洁瑜,Tier III,有效
+广州京卫大药房有限公司,No,DDI,华南 South,华南 South,广州市 Guangzhou,其他 Others,5519,23.13,113.27,广州京卫大药房有限公司,广东省 Guangdong,广东省,Successful-ongoing,药店,No,5,庞洁瑜,Tier III,有效
+广州医药有限公司,Yes,DDI,华南 South,华南 South,广州市 Guangzhou,广药 Guangzhou Pharma,121,23.13,113.27,广州医药有限公司,广东省 Guangdong,广东省,Successful-ongoing,商业公司,Yes,5,曾东旗,Tier I,有效
+广州医药有限公司大众药品销售分公司,No,Cancel,华南 South,华南 South,广州市 Guangzhou,广药 Guangzhou Pharma,9298,23.13,113.27,广州医药有限公司大众药品销售分公司,广东省 Guangdong,广东省,Cancel,商业公司,Yes,5,曾东旗,Tier II,取消
+广州国盈医药有限公司,No,DDI,华南 South,华南 South,广州市 Guangzhou,广药 Guangzhou Pharma,119,23.13,113.27,广州国盈医药有限公司,广东省 Guangdong,广东省,Successful-ongoing,商业公司,No,5,曾东旗,Tier II,有效
+广州市越秀区新稀特大药房,No,Cancel,华南 South,华南 South,广州市 Guangzhou,其他 Others,120,23.13,113.27,广州市越秀区新稀特大药房,广东省 Guangdong,广东省,Cancel,药店,No,5,林珏峰,Tier III,取消
+广药大众药品销售分公司,No,Cancel,华南 South,华南 South,广州市 Guangzhou,广药 Guangzhou Pharma,5518,23.13,113.27,广药大众药品销售分公司,广东省 Guangdong,广东省,Cancel,商业公司,No,5,庞洁瑜,Tier III,取消
+广西一致医药有限公司,No,Cancel,华南 South,华南 South,南宁市 Nanning,国药 Sinopharm,132,22.82,108.37,广西一致医药有限公司,广西区 Guangxi,广西区,Cancel,商业公司,No,7,李新,Tier III,取消
+广西九州通医药有限公司,No,DDI,华南 South,华南 South,南宁市 Nanning,九州通 Jointown,6642,22.82,108.37,广西九州通医药有限公司,广西区 Guangxi,广西区,Successful-ongoing,商业公司,No,7,李新,Tier III,有效
+广西柳州医药股份有限公司,Yes,DDI,华南 South,华南 South,柳州市 Liuzhou,其他 Others,130,24.33,109.42,广西柳州医药股份有限公司,广西区 Guangxi,广西区,Successful-ongoing,商业公司,Yes,7,李新,Tier II,有效
+广西桂玉医药有限责任公司,No,DDI,华南 South,华南 South,玉林市 Yulin,其他 Others,957,22.63,110.17,广西桂玉医药有限责任公司,广西区 Guangxi,广西区,Successful-ongoing,商业公司,No,7,李新,Tier III,有效
+库尔勒九州通医药有限公司,No,DDI,华东 East,华北 North,巴音郭楞蒙古自治州 Bayingol,九州通 Jointown,1772,41.764115,86.145298,库尔勒九州通医药有限公司,新疆区 Xinjiang,新疆区,Successful-ongoing,商业公司,Yes,28,薛岩,Tier III,有效
+康德乐(中国)医药有限公司,No,DDI,华北 North,华北 North,北京市 Beijing,康德乐 Cardinal,12,39.9,116.4,康德乐(中国)医药有限公司,北京市 Beijing,北京市,Successful-ongoing,商业公司,Yes,2,刘利峰,Tier II,有效
+康德乐(四川)医药有限公司,No,DDI,华南 South,华南 South,成都市 Chengdu,康德乐 Cardinal,6754,30.67,104.07,康德乐(四川)医药有限公司,四川省 Sichuan,四川省,Successful-ongoing,商业公司,No,22,王东,Tier III,有效
+康德乐(无锡)医药有限公司,No,DDI,华东 East,华东 East,无锡市 Wuxi,康德乐 Cardinal,9373,31.57,120.3,康德乐(无锡)医药有限公司,江苏省 Jiangsu,江苏省,Successful-ongoing,商业公司,No,16,葛爱,Tier III,有效
+廊坊市德仁医药有限公司,No,Cancel,华北 North,华北 North,廊坊市 Langfang,其他 Others,1843,39.52,116.7,廊坊市德仁医药有限公司,河北省 Hebei,河北省,Cancel,商业公司,No,9,张伟,Tier III,取消
+延边润药医药有限公司,No,DDI,华北 North,华北 North,延边朝鲜族自治州 Yanbian,华润 China Resources,8852,42.891254,129.508946,延边润药医药有限公司,吉林省 Jilin,吉林省,Successful-ongoing,商业公司,No,15,李志群,Tier III,有效
+徐州医药股份有限公司,No,Cancel,华东 East,华东 East,徐州市 Xuzhou,其他 Others,4094,34.27,117.18,徐州医药股份有限公司,江苏省 Jiangsu,江苏省,Cancel,商业公司,No,16,殷波,Tier III,取消
+总后武汉后方基地药材供应站,No,No DDI,华南 South,华南 South,武汉市 Wuhan,其他 Others,9804,30.6,114.3,总后武汉后方基地药材供应站,湖北省 Hubei,湖北省,Military/Monthly,商业公司,Yes,13,阮明,Tier III,有效
+恩施九州通医药有限公司,No,DDI,华南 South,华南 South,恩施土家族苗族自治州 Enshi,九州通 Jointown,4344,30.272156,109.488172,恩施九州通医药有限公司,湖北省 Hubei,湖北省,Successful-ongoing,商业公司,Yes,13,阮明,Tier III,有效
+惠州市卫康中西药业有限公司,No,DDI,华南 South,华南 South,惠州市 Huizhou,其他 Others,122,23.12,114.42,惠州市卫康中西药业有限公司,广东省 Guangdong,广东省,Successful-ongoing,商业公司,Yes,5,林珏峰,Tier II,有效
+成都军区联勤部昆明药材供应站,No,No DDI,华南 South,华南 South,昆明市 Kunming,其他 Others,8600,25.05,102.72,成都军区联勤部昆明药材供应站,云南省 Yunnan,云南省,Military/Monthly,商业公司,No,30,刘鹏程,Tier III,有效
+成都市医药工业有限公司,No,Cancel,华南 South,华南 South,成都市 Chengdu,其他 Others,641,30.67,104.07,成都市医药工业有限公司,四川省 Sichuan,四川省,Cancel,商业公司,No,22,王东,Tier III,取消
+成都禾创药业有限公司,No,Cancel,华南 South,华南 South,成都市 Chengdu,其他 Others,632,30.67,104.07,成都禾创药业有限公司,四川省 Sichuan,四川省,Cancel,商业公司,No,22,王东,Tier III,取消
+新疆九州通医药有限公司,No,DDI,华东 East,华北 North,乌鲁木齐市 Urumqi,九州通 Jointown,56,43.82,87.62,新疆九州通医药有限公司,新疆区 Xinjiang,新疆区,Successful-ongoing,商业公司,Yes,28,薛岩,Tier II,有效
+新疆伊犁九州通药业有限公司,No,DDI,华东 East,华北 North,伊犁哈萨克自治州 Ili Kazak,九州通 Jointown,3109,43.916862,81.324096,新疆伊犁九州通药业有限公司,新疆区 Xinjiang,新疆区,Successful-ongoing,商业公司,Yes,28,薛岩,Tier III,有效
+新疆博赛九州通医药有限公司,No,DDI,华东 East,华北 North,博尔塔拉蒙古自治州 Bortala,九州通 Jointown,8904,44.905588,82.066159,新疆博赛九州通医药有限公司,新疆区 Xinjiang,新疆区,Successful-ongoing,商业公司,No,28,薛岩,Tier III,有效
+新疆新特药民族药业有限责任公司阿克苏分公司,No,DDI,华东 East,华北 North,阿克苏地区 Aksu,国药 Sinopharm,3101,41.168779,80.260605,新疆新特药民族药业有限责任公司阿克苏分公司,新疆区 Xinjiang,新疆区,Successful-ongoing,商业公司,No,28,薛岩,Tier III,有效
+新疆新特西部药业有限责任公司,No,DDI,华东 East,华北 North,乌鲁木齐市 Urumqi,国药 Sinopharm,4162,43.82,87.62,新疆新特西部药业有限责任公司,新疆区 Xinjiang,新疆区,Successful-ongoing,商业公司,Yes,28,薛岩,Tier II,有效
+新疆生产建设兵团医药有限责任公司,No,DDI,华东 East,华北 North,乌鲁木齐市 Urumqi,其他 Others,3088,43.82,87.62,新疆生产建设兵团医药有限责任公司,新疆区 Xinjiang,新疆区,Successful-ongoing,商业公司,Yes,28,薛岩,Tier III,有效
+新龙药业集团有限公司,Yes,DDI,华南 South,华南 South,武汉市 Wuhan,华润 China Resources,3114,30.6,114.3,新龙药业集团有限公司,湖北省 Hubei,湖北省,Successful-ongoing,商业公司,Yes,13,阮明,Tier II,有效
+无锡上药众协大药房有限公司,No,Cancel,华东 East,华东 East,无锡市 Wuxi,上药 Shanghai Pharma,81,31.57,120.3,无锡上药众协大药房有限公司,江苏省 Jiangsu,江苏省,Cancel,药店,No,16,吴敏良,Tier III,取消
+无锡山禾博达医药有限公司,No,Cancel,华东 East,华东 East,无锡市 Wuxi,上药 Shanghai Pharma,2917,31.57,120.3,无锡山禾博达医药有限公司,江苏省 Jiangsu,江苏省,Cancel,商业公司,Yes,16,吴敏良,Tier II,取消
+晋城九州通医药有限公司,No,DDI,华北 North,华北 North,晋城市 Jincheng,九州通 Jointown,8697,35.5,112.83,晋城九州通医药有限公司,山西省 Shanxi,山西省,Successful-ongoing,商业公司,No,26,刘涛,Tier III,有效
+杭州全德堂药房有限公司,No,DDI,华东 East,华东 East,杭州市 Hangzhou,上药 Shanghai Pharma,7930,30.28,120.15,杭州全德堂药房有限公司,浙江省 Zhejiang,浙江省,Successful-ongoing,药店,No,31,陈磊,Tier III,有效
+杭州新特西药房有限公司,No,Cancel,华东 East,华东 East,杭州市 Hangzhou,其他 Others,97,30.28,120.15,杭州新特西药房有限公司,浙江省 Zhejiang,浙江省,Cancel,商业公司,No,31,陈磊,Tier III,取消
+枣庄银海医药有限公司,No,Cancel,华东 East,华东 East,枣庄市 Zaozhuang,其他 Others,3861,34.82,117.32,枣庄银海医药有限公司,山东省 Shandong,山东省,Cancel,商业公司,Yes,23,赵树峰,Tier III,取消
+武汉医药集团股份有限公司医药展销分公司,No,Cancel,华南 South,华南 South,武汉市 Wuhan,其他 Others,2971,30.6,114.3,武汉医药集团股份有限公司医药展销分公司,湖北省 Hubei,湖北省,Cancel,商业公司,No,13,阮明,Tier III,取消
+武汉振生生化药品有限公司,No,Cancel,华南 South,华南 South,武汉市 Wuhan,其他 Others,2975,30.6,114.3,武汉振生生化药品有限公司,湖北省 Hubei,湖北省,Cancel,商业公司,No,13,阮明,Tier III,取消
+武汉神州医药有限责任公司,No,Cancel,华南 South,华南 South,武汉市 Wuhan,其他 Others,2956,30.6,114.3,武汉神州医药有限责任公司,湖北省 Hubei,湖北省,Cancel,商业公司,No,13,阮明,Tier III,取消
+武汉科海园大药房有限公司,No,DDI,华南 South,华南 South,武汉市 Wuhan,上药 Shanghai Pharma,7583,30.6,114.3,武汉科海园大药房有限公司,湖北省 Hubei,湖北省,Successful-ongoing,药店,No,13,阮明,Tier III,有效
+汕头市创美药业有限公司,No,DDI,华南 South,华南 South,汕头市 Shantou,其他 Others,2476,23.35,116.68,汕头市创美药业有限公司,广东省 Guangdong,广东省,Successful-ongoing,商业公司,Yes,5,林珏峰,Tier II,有效
+江苏九州通医药有限公司,No,DDI,华东 East,华东 East,南京市 Nanjing,九州通 Jointown,75,32.07,118.78,江苏九州通医药有限公司,江苏省 Jiangsu,江苏省,Successful-ongoing,商业公司,Yes,16,葛爱,Tier II,有效
+江苏华为医药物流有限公司,No,Cancel,华东 East,华东 East,泰州市 Taizhou,其他 Others,1643,32.455778,119.923116,江苏华为医药物流有限公司,江苏省 Jiangsu,江苏省,Cancel,商业公司,No,16,吴敏良,Tier III,取消
+江苏华晓医药物流有限公司,No,DDI,华东 East,华东 East,盐城市 Yancheng,其他 Others,74,33.35,120.15,江苏华晓医药物流有限公司,江苏省 Jiangsu,江苏省,Successful-ongoing,商业公司,Yes,16,殷波,Tier II,有效
+江苏宏康医药有限公司,No,DDI,华东 East,华东 East,镇江市 Zhenjiang,其他 Others,5372,32.2,119.45,江苏宏康医药有限公司,江苏省 Jiangsu,江苏省,Successful-ongoing,商业公司,Yes,16,殷波,Tier III,有效
+江苏省润天生化医药有限公司,No,DDI,华东 East,华东 East,南京市 Nanjing,其他 Others,1651,32.07,118.78,江苏省润天生化医药有限公司,江苏省 Jiangsu,江苏省,Successful-ongoing,商业公司,Yes,16,葛爱,Tier II,有效
+江西九州通药业有限公司,No,DDI,华东 East,华东 East,南昌市 Nanchang,九州通 Jointown,1680,28.68,115.85,江西九州通药业有限公司,江西省 Jiangxi,江西省,Successful-ongoing,商业公司,Yes,17,陈超,Tier II,有效
+江西南华医药有限公司,No,DDI,华东 East,华东 East,南昌市 Nanchang,上药 Shanghai Pharma,82,28.68,115.85,江西南华医药有限公司,江西省 Jiangxi,江西省,Successful-ongoing,商业公司,Yes,17,陈超,Tier II,有效
+江西南华医药物流有限公司,No,Cancel,华东 East,华东 East,南昌市 Nanchang,上药 Shanghai Pharma,4840,28.68,115.85,江西南华医药物流有限公司,江西省 Jiangxi,江西省,Cancel,商业公司,Yes,17,陈超,Tier III,取消
+江西昌盛医药有限公司,No,Cancel,华东 East,华东 East,萍乡市 Pingxiang,其他 Others,1669,27.63,113.85,江西昌盛医药有限公司,江西省 Jiangxi,江西省,Cancel,商业公司,Yes,17,陈超,Tier III,取消
+江西汇仁集团医药科研营销有限公司,No,Cancel,华东 East,华东 East,南昌市 Nanchang,其他 Others,238,28.68,115.85,江西汇仁集团医药科研营销有限公司,江西省 Jiangxi,江西省,Cancel,商业公司,No,17,陈超,Tier III,取消
+江西黄庆仁栈华氏大药房有限公司,No,DDI,华东 East,华东 East,南昌市 Nanchang,其他 Others,7667,28.68,115.85,江西黄庆仁栈华氏大药房有限公司,江西省 Jiangxi,江西省,Successful-ongoing,药店,No,17,陈超,Tier III,有效
+江西黄庆仁栈华氏大药房有限公司南昌市樟树国药局,No,DDI,华东 East,华东 East,南昌市 Nanchang,其他 Others,7589,28.68,115.85,江西黄庆仁栈华氏大药房有限公司南昌市樟树国药局,江西省 Jiangxi,江西省,Successful-ongoing,药店,No,17,陈超,Tier III,有效
+江门广药侨康医药有限公司,No,DDI,华南 South,华南 South,江门市 Jiangmen,广药 Guangzhou Pharma,8885,22.58,113.08,江门广药侨康医药有限公司,广东省 Guangdong,广东省,Successful-ongoing,商业公司,Yes,5,庞洁瑜,Tier II,有效
+江阴华宏医药有限公司,No,Cancel,华东 East,华东 East,无锡市 Wuxi,其他 Others,1704,31.57,120.3,江阴华宏医药有限公司,江苏省 Jiangsu,江苏省,Cancel,商业公司,Yes,16,吴敏良,Tier III,取消
+沈阳中沈药品有限公司,No,Cancel,华北 North,华北 North,沈阳市 Shenyang,其他 Others,2599,41.8,123.43,沈阳中沈药品有限公司,辽宁省 Liaoning,辽宁省,Cancel,商业公司,No,18,赵骏铭,Tier III,取消
+沈阳军区沈阳药材供应站(沈阳军区65112部队药品器材采购供应站),No,No DDI,华北 North,华北 North,沈阳市 Shenyang,其他 Others,8808,41.8,123.43,沈阳军区沈阳药材供应站(沈阳军区65112部队药品器材采购供应站),辽宁省 Liaoning,辽宁省,Military/Monthly,商业公司,Yes,18,赵骏铭,Tier III,有效
+沈阳麦若可药房有限责任公司,No,DDI,华北 North,华北 North,沈阳市 Shenyang,其他 Others,7480,41.8,123.43,沈阳麦若可药房有限责任公司,辽宁省 Liaoning,辽宁省,Successful-ongoing,药店,No,18,赵骏铭,Tier III,有效
+沧州天元医药有限公司新特药分公司,No,Cancel,华北 North,华北 North,沧州市 Cangzhou,其他 Others,596,38.3,116.83,沧州天元医药有限公司新特药分公司,河北省 Hebei,河北省,Cancel,商业公司,No,9,刘涛,Tier III,取消
+沧州天元医药有限公司第四药品分公司,No,Cancel,华北 North,华北 North,沧州市 Cangzhou,其他 Others,595,38.3,116.83,沧州天元医药有限公司第四药品分公司,河北省 Hebei,河北省,Cancel,商业公司,No,9,刘涛,Tier III,取消
+河北新兴医药有限公司,No,Cancel,华北 North,华北 North,石家庄市 Shijiazhuang,其他 Others,16,38.05,114.52,河北新兴医药有限公司,河北省 Hebei,河北省,Cancel,商业公司,No,9,刘涛,Tier II,取消
+河南东森医药有限公司,No,DDI,华东 East,华东 East,南阳市 Nanyang,其他 Others,1261,33,112.52,河南东森医药有限公司,河南省 Henan,河南省,Follow-up,商业公司,Yes,12,李娟,Tier III,有效
+河南九州通医药有限公司,No,DDI,华东 East,华东 East,郑州市 Zhengzhou,九州通 Jointown,1265,34.75,113.62,河南九州通医药有限公司,河南省 Henan,河南省,Successful-ongoing,商业公司,Yes,12,李娟,Tier III,有效
+河南九州通医药有限公司三门峡分公司,No,DDI,华东 East,华东 East,三门峡市 Sanmenxia,九州通 Jointown,4576,34.772494,111.200135,河南九州通医药有限公司三门峡分公司,河南省 Henan,河南省,Successful-ongoing,商业公司,No,12,李娟,Tier III,有效
+河南九州通医药有限公司信阳分公司,No,DDI,华东 East,华东 East,信阳市 Xinyang,九州通 Jointown,7535,32.13,114.07,河南九州通医药有限公司信阳分公司,河南省 Henan,河南省,Successful-ongoing,商业公司,No,12,李娟,Tier III,有效
+河南九州通医药有限公司商丘分公司,No,DDI,华东 East,华东 East,商丘市 Shangqiu,九州通 Jointown,4195,34.45,115.65,河南九州通医药有限公司商丘分公司,河南省 Henan,河南省,Successful-ongoing,商业公司,No,12,李娟,Tier III,有效
+河南博康医药有限公司,No,Cancel,华东 East,华东 East,商丘市 Shangqiu,其他 Others,1259,34.45,115.65,河南博康医药有限公司,河南省 Henan,河南省,Cancel,商业公司,No,12,李娟,Tier III,取消
+河南圣光集团医药物流有限公司,No,Cancel,华东 East,华东 East,平顶山市 Pingdingshan,其他 Others,1296,33.77,113.18,河南圣光集团医药物流有限公司,河南省 Henan,河南省,Cancel,商业公司,No,12,李娟,Tier III,取消
+河南海恩药业有限公司,No,Cancel,华东 East,华东 East,郑州市 Zhengzhou,其他 Others,4039,34.75,113.62,河南海恩药业有限公司,河南省 Henan,河南省,Cancel,商业公司,No,12,李娟,Tier III,取消
+河南省医药有限公司,No,DDI,华东 East,华东 East,郑州市 Zhengzhou,其他 Others,71,34.75,113.62,河南省医药有限公司,河南省 Henan,河南省,Successful-ongoing,商业公司,Yes,12,李娟,Tier III,有效
+河南省康信医药有限公司,No,DDI,华东 East,华东 East,郑州市 Zhengzhou,其他 Others,70,34.75,113.62,河南省康信医药有限公司,河南省 Henan,河南省,Successful-ongoing,商业公司,Yes,12,李娟,Tier II,有效
+河南省爱森医药有限公司,No,Cancel,华东 East,华东 East,新乡市 Xinxiang,其他 Others,1271,35.3,113.9,河南省爱森医药有限公司,河南省 Henan,河南省,Cancel,商业公司,No,12,李娟,Tier III,取消
+洛阳鼎信御安药业有限公司,No,Cancel,华东 East,华东 East,洛阳市 Luoyang,其他 Others,1969,34.62,112.45,洛阳鼎信御安药业有限公司,河南省 Henan,河南省,Cancel,商业公司,Yes,12,李娟,Tier III,取消
+济南惠友大药房有限公司,No,Cancel,华东 East,华东 East,济南市 Jinan,其他 Others,4801,36.67,116.98,济南惠友大药房有限公司,山东省 Shandong,山东省,Cancel,药店,No,23,赵树峰,Tier III,取消
+济南润生新药特药大药房有限公司,No,DDI,华东 East,华东 East,济南市 Jinan,华润 China Resources,9374,36.67,116.98,济南润生新药特药大药房有限公司,山东省 Shandong,山东省,Successful-ongoing,药店,No,23,赵树峰,Tier III,有效
+浙江上药新欣医药有限公司,No,DDI,华东 East,华东 East,杭州市 Hangzhou,上药 Shanghai Pharma,106,30.28,120.15,浙江上药新欣医药有限公司,浙江省 Zhejiang,浙江省,Successful-ongoing,商业公司,No,31,陈磊,Tier II,有效
+浙江众安医药有限责任有限公司,No,No DDI,华东 East,华东 East,丽水市 Lishui,其他 Others,5569,28.45,119.92,浙江众安医药有限责任有限公司,浙江省 Zhejiang,浙江省,Designated/Monthly,商业公司,Yes,31,陈磊,Tier III,有效
+浙江华通医药股份有限公司,No,Cancel,华东 East,华东 East,绍兴市 Shaoxing,其他 Others,5112,30,120.57,浙江华通医药股份有限公司,浙江省 Zhejiang,浙江省,Cancel,商业公司,Yes,31,陈磊,Tier III,取消
+浙江嘉信医药股份有限公司,No,Cancel,华东 East,华东 East,嘉兴市 Jiaxing,其他 Others,104,30.75,120.75,浙江嘉信医药股份有限公司,浙江省 Zhejiang,浙江省,Cancel,商业公司,Yes,31,陈磊,Tier III,取消
+浙江大加利医药有限公司,No,Cancel,华东 East,华东 East,杭州市 Hangzhou,其他 Others,103,30.28,120.15,浙江大加利医药有限公司,浙江省 Zhejiang,浙江省,Cancel,商业公司,No,31,陈磊,Tier III,取消
+浙江大德药业集团浙江医药有限公司,No,DDI,华东 East,华东 East,金华市 Jinhua,其他 Others,3423,29.08,119.65,浙江大德药业集团浙江医药有限公司,浙江省 Zhejiang,浙江省,Successful-ongoing,商业公司,Yes,31,陈磊,Tier III,有效
+浙江恩泽医药有限公司,No,DDI,华东 East,华东 East,台州市 Taizhou,其他 Others,3425,28.68,121.43,浙江恩泽医药有限公司,浙江省 Zhejiang,浙江省,Successful-ongoing,商业公司,Yes,31,陈小锋,Tier II,有效
+浙江振德医药有限公司,No,Cancel,华东 East,华东 East,杭州市 Hangzhou,其他 Others,3463,30.28,120.15,浙江振德医药有限公司,浙江省 Zhejiang,浙江省,Cancel,商业公司,Yes,31,陈磊,Tier III,取消
+浙江济世源医药有限公司,No,No DDI,华东 East,华东 East,台州市 Taizhou,其他 Others,3430,28.68,121.43,浙江济世源医药有限公司,浙江省 Zhejiang,浙江省,Designated/Monthly,商业公司,No,31,陈小锋,Tier III,有效
+浙江玉环医药有限公司,No,Cancel,华东 East,华东 East,台州市 Taizhou,其他 Others,3461,28.68,121.43,浙江玉环医药有限公司,浙江省 Zhejiang,浙江省,Cancel,商业公司,No,31,陈磊,Tier III,取消
+浙江省东阳市医药药材有限公司,No,Cancel,华东 East,华东 East,金华市 Jinhua,其他 Others,3441,29.08,119.65,浙江省东阳市医药药材有限公司,浙江省 Zhejiang,浙江省,Cancel,商业公司,No,31,陈磊,Tier II,取消
+浙江英特药业有限责任公司,No,DDI,华东 East,华东 East,杭州市 Hangzhou,其他 Others,107,30.28,120.15,浙江英特药业有限责任公司,浙江省 Zhejiang,浙江省,Successful-ongoing,商业公司,Yes,31,陈磊,Tier II,有效
+浙江金益医药有限公司,No,No DDI,华东 East,华东 East,金华市 Jinhua,其他 Others,3432,29.08,119.65,浙江金益医药有限公司,浙江省 Zhejiang,浙江省,Designated/Monthly/Website,商业公司,Yes,31,陈磊,Tier III,有效
+浙江震元股份有限公司,No,Cancel,华东 East,华东 East,绍兴市 Shaoxing,其他 Others,3464,30,120.57,浙江震元股份有限公司,浙江省 Zhejiang,浙江省,Cancel,商业公司,Yes,31,陈磊,Tier III,取消
+海南东鑫药业有限公司,No,No DDI,华南 South,华南 South,海口市 Haikou,其他 Others,1136,20.03,110.32,海南东鑫药业有限公司,海南省 Hainan,海南省,Designated/Monthly,商业公司,No,11,曾东旗,Tier III,有效
+海南卫民医药设备有限公司,No,Cancel,华南 South,华南 South,海口市 Haikou,其他 Others,1148,20.03,110.32,海南卫民医药设备有限公司,海南省 Hainan,海南省,Cancel,商业公司,No,11,曾东旗,Tier III,取消
+海南奥尔康医药有限公司,No,Cancel,华南 South,华南 South,海口市 Haikou,其他 Others,1134,20.03,110.32,海南奥尔康医药有限公司,海南省 Hainan,海南省,Cancel,商业公司,No,11,曾东旗,Tier III,取消
+海南广安堂药品超市连锁经营有限公司海秀路分店,No,Cancel,华南 South,华南 South,海口市 Haikou,其他 Others,7588,20.03,110.32,海南广安堂药品超市连锁经营有限公司海秀路分店,海南省 Hainan,海南省,Cancel,药店,No,11,曾东旗,Tier III,取消
+海南广药晨菲药业有限公司,No,DDI,华南 South,华南 South,海口市 Haikou,广药 Guangzhou Pharma,1135,20.03,110.32,海南广药晨菲药业有限公司,海南省 Hainan,海南省,Successful-ongoing,商业公司,Yes,11,曾东旗,Tier II,有效
+海南朗德医药有限公司,No,Cancel,华南 South,华南 South,海口市 Haikou,其他 Others,5023,20.03,110.32,海南朗德医药有限公司,海南省 Hainan,海南省,Cancel,商业公司,No,11,曾东旗,Tier III,取消
+海盐县医药总公司,No,Cancel,华东 East,华东 East,嘉兴市 Jiaxing,其他 Others,1155,30.75,120.75,海盐县医药总公司,浙江省 Zhejiang,浙江省,Cancel,商业公司,Yes,31,陈磊,Tier III,取消
+淄博群成医药有限公司,No,Cancel,华东 East,华东 East,淄博市 Zibo,其他 Others,5516,36.82,118.05,淄博群成医药有限公司,山东省 Shandong,山东省,Cancel,商业公司,No,23,赵树峰,Tier III,取消
+淮南新欣医药有限公司,No,Cancel,华东 East,华东 East,淮南市 Huainan,其他 Others,1523,32.63,117,淮南新欣医药有限公司,安徽省 Anhui,安徽省,Cancel,商业公司,No,1,殷波,Tier III,取消
+淮安九州通医药有限公司,Yes,DDI,华东 East,华东 East,淮安市 Huai'an,九州通 Jointown,1520,33.62,119.02,淮安九州通医药有限公司,江苏省 Jiangsu,江苏省,Successful-ongoing,商业公司,Yes,16,吴敏良,Tier II,有效
+深圳一致药业股份有限公司,No,Cancel,华南 South,华南 South,深圳市 Shenzhen,其他 Others,128,22.55,114.05,深圳一致药业股份有限公司,广东省 Guangdong,广东省,Cancel,商业公司,Yes,5,庞洁瑜,Tier III,取消
+深圳九州通医药有限公司,No,DDI,华南 South,华南 South,深圳市 Shenzhen,九州通 Jointown,4305,22.55,114.05,深圳九州通医药有限公司,广东省 Guangdong,广东省,Successful-ongoing,商业公司,No,5,庞洁瑜,Tier III,有效
+深圳市合丹医药有限公司,No,DDI,华南 South,华南 South,深圳市 Shenzhen,其他 Others,124,22.55,114.05,深圳市合丹医药有限公司,广东省 Guangdong,广东省,Successful-ongoing,商业公司,No,5,林珏峰,Tier II,有效
+深圳广药联康医药有限公司,No,DDI,华南 South,华南 South,深圳市 Shenzhen,广药 Guangzhou Pharma,4934,22.55,114.05,深圳广药联康医药有限公司,广东省 Guangdong,广东省,Successful-ongoing,商业公司,Yes,5,林珏峰,Tier II,有效
+温州九州通医药有限公司,No,DDI,华东 East,华东 East,温州市 Wenzhou,九州通 Jointown,2876,28,120.7,温州九州通医药有限公司,浙江省 Zhejiang,浙江省,Successful-ongoing,商业公司,No,31,陈磊,Tier III,有效
+温州市新光医药有限公司,No,Cancel,华东 East,华东 East,温州市 Wenzhou,其他 Others,2889,28,120.7,温州市新光医药有限公司,浙江省 Zhejiang,浙江省,Cancel,商业公司,No,31,陈磊,Tier II,取消
+湖北人福诺生药业有限责任公司,No,DDI,华南 South,华南 South,武汉市 Wuhan,其他 Others,141,30.6,114.3,湖北人福诺生药业有限责任公司,湖北省 Hubei,湖北省,Successful-ongoing,商业公司,No,13,阮明,Tier II,有效
+湖北倍得佳医药有限公司,No,Cancel,华南 South,华南 South,武汉市 Wuhan,其他 Others,2934,30.6,114.3,湖北倍得佳医药有限公司,湖北省 Hubei,湖北省,Cancel,商业公司,No,13,阮明,Tier III,取消
+湖北同成医药有限公司,No,Cancel,华南 South,华南 South,武汉市 Wuhan,其他 Others,1474,30.6,114.3,湖北同成医药有限公司,湖北省 Hubei,湖北省,Cancel,商业公司,No,13,阮明,Tier III,取消
+湖北广药安康医药有限公司,No,Cancel,华南 South,华南 South,武汉市 Wuhan,其他 Others,1439,30.6,114.3,湖北广药安康医药有限公司,湖北省 Hubei,湖北省,Cancel,商业公司,No,13,阮明,Tier III,取消
+湖北康尔达医药有限公司,No,Cancel,华南 South,华南 South,武汉市 Wuhan,其他 Others,1459,30.6,114.3,湖北康尔达医药有限公司,湖北省 Hubei,湖北省,Cancel,商业公司,No,13,阮明,Tier III,取消
+湖北康莱医药有限公司,No,Cancel,华南 South,华南 South,武汉市 Wuhan,其他 Others,1460,30.6,114.3,湖北康莱医药有限公司,湖北省 Hubei,湖北省,Cancel,商业公司,No,13,阮明,Tier III,取消
+湖北李时珍国际医药港药业有限公司,No,DDI,华南 South,华南 South,黄冈市 Huanggang,九州通 Jointown,7952,30.45,114.87,湖北李时珍国际医药港药业有限公司,湖北省 Hubei,湖北省,Successful-ongoing,商业公司,No,13,阮明,Tier III,有效
+湖北爱尔康医药有限公司,No,Cancel,华南 South,华南 South,鄂州市 Ezhou,其他 Others,4367,30.39194,114.894843,湖北爱尔康医药有限公司,湖北省 Hubei,湖北省,Cancel,商业公司,No,13,阮明,Tier III,取消
+湖北缘康医药有限公司,No,Cancel,华南 South,华南 South,武汉市 Wuhan,国药 Sinopharm,6174,30.6,114.3,湖北缘康医药有限公司,湖北省 Hubei,湖北省,Cancel,商业公司,Yes,13,阮明,Tier III,取消
+湖南省医药销售有限公司,No,DDI,华南 South,华南 South,长沙市 Changsha,其他 Others,146,28.23,112.93,湖南省医药销售有限公司,湖南省 Hunan,湖南省,Successful-ongoing,商业公司,No,14,谭浪,Tier II,有效
+湖南省瑞格医药有限公司益生药号,No,DDI,华南 South,华南 South,长沙市 Changsha,华润 China Resources,7596,28.23,112.93,湖南省瑞格医药有限公司益生药号,湖南省 Hunan,湖南省,Successful-validation,药店,No,14,谭浪,Tier III,有效
+湖南达嘉维康医药有限公司,No,Cancel,华南 South,华南 South,长沙市 Changsha,其他 Others,144,28.23,112.93,湖南达嘉维康医药有限公司,湖南省 Hunan,湖南省,Cancel,商业公司,No,14,谭浪,Tier III,取消
+湛江九州通医药有限公司,No,DDI,华南 South,华南 South,湛江市 Zhanjiang,九州通 Jointown,4299,21.27,110.35,湛江九州通医药有限公司,广东省 Guangdong,广东省,Successful-ongoing,商业公司,No,5,庞洁瑜,Tier III,有效
+滨州市黄河医药有限公司,No,Cancel,华东 East,华东 East,滨州市 Binzhou,其他 Others,4828,37.38,117.97,滨州市黄河医药有限公司,山东省 Shandong,山东省,Cancel,商业公司,Yes,23,赵树峰,Tier III,取消
+漳州鹭燕医药有限公司,No,DDI,华东 East,华东 East,漳州市 Zhangzhou,其他 Others,68,24.52,117.65,漳州鹭燕医药有限公司,福建省 Fujian,福建省,Successful-ongoing,商业公司,No,4,何秀彬,Tier III,有效
+潮州市天诚医药有限公司,No,No DDI,华南 South,华南 South,潮州市 Chaozhou,其他 Others,108,23.67,116.62,潮州市天诚医药有限公司,广东省 Guangdong,广东省,Designated/Monthly,商业公司,No,5,林珏峰,Tier III,有效
+烟台海王医药有限公司,No,Cancel,华东 East,华东 East,烟台市 Yantai,其他 Others,3151,37.45,121.43,烟台海王医药有限公司,山东省 Shandong,山东省,Cancel,商业公司,Yes,23,赵树峰,Tier III,取消
+焦作市云台山医药有限公司,No,Cancel,华东 East,华东 East,焦作市 Jiaozuo,其他 Others,1710,35.22,113.25,焦作市云台山医药有限公司,河南省 Henan,河南省,Cancel,商业公司,No,12,李娟,Tier III,取消
+牡丹江福宁医药有限公司,No,Cancel,华北 North,华北 North,牡丹江市 Mudanjiang,其他 Others,2020,44.551653,129.633169,牡丹江福宁医药有限公司,黑龙江 Heilongjiang,黑龙江,Cancel,商业公司,No,10,徐建超,Tier III,取消
+珠海市中山医康拓医药有限公司,No,DDI,华南 South,华南 South,珠海市 Zhuhai,上药 Shanghai Pharma,129,22.27,113.57,珠海市中山医康拓医药有限公司,广东省 Guangdong,广东省,Successful-ongoing,商业公司,No,5,庞洁瑜,Tier II,有效
+甘肃普禾医药有限责任公司,No,DDI,华东 East,华北 North,兰州市 Lanzhou,其他 Others,854,36.07,103.82,甘肃普禾医药有限责任公司,甘肃省 Gansu,甘肃省,Successful-ongoing,商业公司,Yes,6,王晓理,Tier III,有效
+甘肃百安医药科技有限公司,No,DDI,华东 East,华北 North,兰州市 Lanzhou,其他 Others,13,36.07,103.82,甘肃百安医药科技有限公司,甘肃省 Gansu,甘肃省,Successful-ongoing,商业公司,Yes,6,王晓理,Tier II,有效
+甘肃百安医药科技有限公司诺和新特药房,No,Cancel,华东 East,华北 North,兰州市 Lanzhou,其他 Others,7587,36.07,103.82,甘肃百安医药科技有限公司诺和新特药房,甘肃省 Gansu,甘肃省,Cancel,药店,No,6,王晓理,Tier III,取消
+白城润药医药有限公司,No,DDI,华北 North,华北 North,白城市 Baicheng,华润 China Resources,8951,45.619641,122.839024,白城润药医药有限公司,吉林省 Jilin,吉林省,Successful-validation,商业公司,No,15,李志群,Tier III,有效
+盘锦辽河药材经销处,No,No DDI,华北 North,华北 North,盘锦市 Panjin,其他 Others,2145,41.12,122.07,盘锦辽河药材经销处,辽宁省 Liaoning,辽宁省,Designated/Monthly,商业公司,Yes,18,赵骏铭,Tier III,有效
+石家庄市西环医药有限公司,No,DDI,华北 North,华北 North,石家庄市 Shijiazhuang,其他 Others,18,38.05,114.52,石家庄市西环医药有限公司,河北省 Hebei,河北省,Successful-ongoing,商业公司,No,9,刘涛,Tier II,有效
+福州市鼓楼区宏利药店(普通合伙),No,DDI,华东 East,华东 East,福州市 Fuzhou,其他 Others,7700,26.08,119.3,福州市鼓楼区宏利药店(普通合伙),福建省 Fujian,福建省,Successful-ongoing,药店,No,4,何秀彬,Tier III,有效
+福州常春药业有限公司,No,Cancel,华东 East,华东 East,福州市 Fuzhou,其他 Others,65,26.08,119.3,福州常春药业有限公司,福建省 Fujian,福建省,Cancel,商业公司,No,4,何秀彬,Tier III,取消
+福州鹭燕医药有限公司,No,DDI,华东 East,华东 East,福州市 Fuzhou,其他 Others,66,26.08,119.3,福州鹭燕医药有限公司,福建省 Fujian,福建省,Successful-ongoing,商业公司,Yes,4,何秀彬,Tier II,有效
+福建三明同春医药有限公司,No,Cancel,华东 East,华东 East,三明市 Sanming,其他 Others,5043,26.27,117.62,福建三明同春医药有限公司,福建省 Fujian,福建省,Cancel,商业公司,No,4,何秀彬,Tier III,取消
+福建中源医药有限公司,No,Cancel,华东 East,华东 East,福州市 Fuzhou,其他 Others,826,26.08,119.3,福建中源医药有限公司,福建省 Fujian,福建省,Cancel,商业公司,No,4,何秀彬,Tier III,取消
+福建中鹭医药有限公司,No,DDI,华东 East,华东 East,福州市 Fuzhou,其他 Others,64,26.08,119.3,福建中鹭医药有限公司,福建省 Fujian,福建省,Successful-ongoing,商业公司,No,4,何秀彬,Tier II,有效
+福建九州通医药有限公司,No,DDI,华东 East,华东 East,福州市 Fuzhou,九州通 Jointown,786,26.08,119.3,福建九州通医药有限公司,福建省 Fujian,福建省,Successful-ongoing,商业公司,No,4,何秀彬,Tier II,有效
+福建同春药业股份有限公司,No,DDI,华东 East,华东 East,福州市 Fuzhou,其他 Others,63,26.08,119.3,福建同春药业股份有限公司,福建省 Fujian,福建省,Successful-ongoing,商业公司,Yes,4,何秀彬,Tier II,有效
+福建广药洁达医药有限公司,No,Cancel,华东 East,华东 East,福州市 Fuzhou,其他 Others,62,26.08,119.3,福建广药洁达医药有限公司,福建省 Fujian,福建省,Cancel,商业公司,No,4,何秀彬,Tier III,取消
+福建新力量医药有限公司,No,Cancel,华东 East,华东 East,南平市 Nanping,其他 Others,822,26.641769,118.177708,福建新力量医药有限公司,福建省 Fujian,福建省,Cancel,商业公司,No,4,何秀彬,Tier III,取消
+福建新力量医药有限公司南平分公司,No,Cancel,华东 East,华东 East,南平市 Nanping,其他 Others,823,26.641769,118.177708,福建新力量医药有限公司南平分公司,福建省 Fujian,福建省,Cancel,商业公司,No,4,何秀彬,Tier III,取消
+福建省惠安县医药有限责任公司,No,Cancel,华东 East,华东 East,泉州市 Quanzhou,其他 Others,804,24.88,118.67,福建省惠安县医药有限责任公司,福建省 Fujian,福建省,Cancel,商业公司,No,4,何秀彬,Tier III,取消
+福建省新特药业有限公司,No,Cancel,华东 East,华东 East,福州市 Fuzhou,其他 Others,814,26.08,119.3,福建省新特药业有限公司,福建省 Fujian,福建省,Cancel,商业公司,Yes,4,何秀彬,Tier III,取消
+福建省福州市惠好药业有限公司,No,Cancel,华东 East,华东 East,福州市 Fuzhou,其他 Others,802,26.08,119.3,福建省福州市惠好药业有限公司,福建省 Fujian,福建省,Cancel,商业公司,No,4,何秀彬,Tier III,取消
+福建省药材公司,No,Cancel,华东 East,华东 East,福州市 Fuzhou,其他 Others,816,26.08,119.3,福建省药材公司,福建省 Fujian,福建省,Cancel,商业公司,No,4,何秀彬,Tier III,取消
+福建英特盛健药业有限公司,No,DDI,华东 East,华东 East,福州市 Fuzhou,其他 Others,4422,26.08,119.3,福建英特盛健药业有限公司,福建省 Fujian,福建省,Successful-ongoing,商业公司,No,4,何秀彬,Tier III,有效
+科园信海医药湖北有限公司,Yes,DDI,华南 South,华南 South,武汉市 Wuhan,上药 Shanghai Pharma,140,30.6,114.3,科园信海医药湖北有限公司,湖北省 Hubei,湖北省,Successful-ongoing,商业公司,No,13,阮明,Tier II,有效
+绥化市医药有限公司,No,Cancel,华北 North,华北 North,绥化市 Suihua,其他 Others,2708,46.636631,126.980006,绥化市医药有限公司,黑龙江 Heilongjiang,黑龙江,Cancel,商业公司,No,10,徐建超,Tier III,取消
+绵阳九州通医药有限公司,No,DDI,华南 South,华南 South,绵阳市 Mianyang,九州通 Jointown,4334,31.47,104.73,绵阳九州通医药有限公司,四川省 Sichuan,四川省,Successful-ongoing,商业公司,No,22,王东,Tier III,有效
+芜湖九州通医药销售有限公司,No,DDI,华东 East,华东 East,芜湖市 Wuhu,九州通 Jointown,6512,31.33,118.38,芜湖九州通医药销售有限公司,安徽省 Anhui,安徽省,Successful-ongoing,商业公司,No,1,殷波,Tier III,有效
+苏州众协大药房有限公司,No,Cancel,华东 East,华东 East,苏州市 Suzhou,上药 Shanghai Pharma,79,31.3,120.58,苏州众协大药房有限公司,江苏省 Jiangsu,江苏省,Cancel,药店,No,16,吴敏良,Tier II,取消
+苏州天顺医药有限公司,No,Cancel,华东 East,华东 East,苏州市 Suzhou,华润 China Resources,2705,31.3,120.58,苏州天顺医药有限公司,江苏省 Jiangsu,江苏省,Cancel,商业公司,No,16,吴敏良,Tier II,取消
+茂名市康特医药有限公司,No,No DDI,华南 South,华南 South,茂名市 Maoming,其他 Others,2004,21.662999,110.925456,茂名市康特医药有限公司,广东省 Guangdong,广东省,Plan to cancel,商业公司,No,5,庞洁瑜,Tier III,有效
+荆州九州通医药有限公司,No,DDI,华南 South,华南 South,荆州市 Jingzhou,九州通 Jointown,4383,30.33,112.23,荆州九州通医药有限公司,湖北省 Hubei,湖北省,Successful-ongoing,商业公司,Yes,13,阮明,Tier III,有效
+莆田鹭燕医药有限公司,No,DDI,华东 East,华东 East,莆田市 Putian,其他 Others,2159,25.43,119,莆田鹭燕医药有限公司,福建省 Fujian,福建省,Successful-ongoing,商业公司,No,4,何秀彬,Tier III,有效
+衢州医药有限公司,No,Cancel,华东 East,华东 East,衢州市 Quzhou,华润 China Resources,2234,28.97008,118.859457,衢州医药有限公司,浙江省 Zhejiang,浙江省,Cancel,商业公司,No,31,刘鹏程,Tier II,取消
+襄阳九州通医药有限公司,No,DDI,华南 South,华南 South,襄阳市 Xiangyang,九州通 Jointown,6950,32.02,112.15,襄阳九州通医药有限公司,湖北省 Hubei,湖北省,Successful-ongoing,商业公司,Yes,13,阮明,Tier III,有效
+西安双鹤医药股份有限公司新药分公司,No,Cancel,华东 East,华北 North,西安市 Xi'an,其他 Others,49,34.27,108.93,西安双鹤医药股份有限公司新药分公司,陕西省 Shaanxi,陕西省,Cancel,商业公司,No,25,王晓理,Tier II,取消
+西藏康健医药销售有限公司,No,DDI,华南 South,华南 South,拉萨市 Lhasa,其他 Others,3028,29.645554,91.140856,西藏康健医药销售有限公司,西藏区 Tibet,西藏区,Successful-ongoing,商业公司,Yes,29,王东,Tier III,有效
+贵州信邦药业有限公司,No,DDI,华南 South,华南 South,贵阳市 Guiyang,其他 Others,134,26.65,106.63,贵州信邦药业有限公司,贵州省 Guizhou,贵州省,Successful-ongoing,商业公司,Yes,8,刘鹏程,Tier II,有效
+贵州省医药(集团)有限责任公司,No,DDI,华南 South,华南 South,贵阳市 Guiyang,其他 Others,135,26.65,106.63,贵州省医药(集团)有限责任公司,贵州省 Guizhou,贵州省,Successful-ongoing,商业公司,Yes,8,刘鹏程,Tier II,有效
+贵州省医药(集团)有限责任公司南区分公司,Yes,DDI,华南 South,华南 South,黔南布依族苗族自治州 Qiannan,其他 Others,7691,26.254092,107.52214,贵州省医药(集团)有限责任公司南区分公司,贵州省 Guizhou,贵州省,Successful-ongoing,商业公司,Yes,8,刘鹏程,Tier III,有效
+贵州省医药(集团)有限责任公司遵义分公司,No,DDI,华南 South,华南 South,遵义市 Zunyi,其他 Others,1051,27.73,106.92,贵州省医药(集团)有限责任公司遵义分公司,贵州省 Guizhou,贵州省,Successful-ongoing,商业公司,Yes,8,刘鹏程,Tier III,有效
+贵州科开医药股份有限公司,No,DDI,华南 South,华南 South,贵阳市 Guiyang,其他 Others,1041,26.65,106.63,贵州科开医药股份有限公司,贵州省 Guizhou,贵州省,Successful-ongoing,商业公司,Yes,8,刘鹏程,Tier II,有效
+贵阳特佳药品有限责任公司,No,Cancel,华南 South,华南 South,贵阳市 Guiyang,其他 Others,1034,26.65,106.63,贵阳特佳药品有限责任公司,贵州省 Guizhou,贵州省,Cancel,商业公司,No,8,刘鹏程,Tier III,取消
+贵阳福济康医药有限公司,No,DDI,华南 South,华南 South,贵阳市 Guiyang,其他 Others,4296,26.65,106.63,贵阳福济康医药有限公司,贵州省 Guizhou,贵州省,Successful-ongoing,药店,No,8,刘鹏程,Tier III,有效
+辽宁九州通医药有限公司,No,DDI,华北 North,华北 North,沈阳市 Shenyang,九州通 Jointown,1892,41.8,123.43,辽宁九州通医药有限公司,辽宁省 Liaoning,辽宁省,Successful-ongoing,商业公司,Yes,18,赵骏铭,Tier II,有效
+辽宁天一药业有限责任公司,No,Cancel,华北 North,华北 North,沈阳市 Shenyang,其他 Others,32,41.8,123.43,辽宁天一药业有限责任公司,辽宁省 Liaoning,辽宁省,Cancel,商业公司,No,18,赵骏铭,Tier II,取消
+辽宁天宇医药贸易有限公司,No,Cancel,华北 North,华北 North,大连市 Dalian,其他 Others,1921,38.92,121.62,辽宁天宇医药贸易有限公司,辽宁省 Liaoning,辽宁省,Cancel,商业公司,Yes,18,李志群,Tier III,取消
+辽宁盛生医药集团大连药品器械有限公司,No,Cancel,华北 North,华北 North,大连市 Dalian,其他 Others,31,38.92,121.62,辽宁盛生医药集团大连药品器械有限公司,辽宁省 Liaoning,辽宁省,Cancel,商业公司,Yes,18,赵骏铭,Tier III,取消
+辽宁省医药对外贸易有限公司,No,DDI,华北 North,华北 North,沈阳市 Shenyang,其他 Others,30,41.8,123.43,辽宁省医药对外贸易有限公司,辽宁省 Liaoning,辽宁省,Successful-ongoing,商业公司,Yes,18,赵骏铭,Tier II,有效
+连云港康缘医药商业有限公司,No,Cancel,华东 East,华东 East,连云港市 Lianyungang,其他 Others,1866,34.6,119.22,连云港康缘医药商业有限公司,江苏省 Jiangsu,江苏省,Cancel,商业公司,No,16,吴敏良,Tier III,取消
+遂宁市西部华源医药有限公司,No,DDI,华南 South,华南 South,遂宁市 Suining,九州通 Jointown,4331,30.52,105.57,遂宁市西部华源医药有限公司,四川省 Sichuan,四川省,Successful-ongoing,商业公司,No,22,王东,Tier III,有效
+重庆九州通医药有限公司,No,DDI,华南 South,华南 South,重庆市 Chongqing,九州通 Jointown,3519,29.57,106.55,重庆九州通医药有限公司,重庆市 Chongqing,重庆市,Successful-ongoing,商业公司,Yes,3,朱虹,Tier II,有效
+重庆九州通医药有限公司万州分公司,No,DDI,华南 South,华南 South,重庆市 Chongqing,九州通 Jointown,4329,29.57,106.55,重庆九州通医药有限公司万州分公司,重庆市 Chongqing,重庆市,Successful-ongoing,商业公司,No,3,朱虹,Tier III,有效
+重庆医药(集团)股份有限公司,No,DDI,华南 South,华南 South,重庆市 Chongqing,其他 Others,151,29.57,106.55,重庆医药(集团)股份有限公司,重庆市 Chongqing,重庆市,Successful-ongoing,商业公司,Yes,3,朱虹,Tier II,有效
+重庆医药上海药品销售有限责任公司,No,Cancel,华南 South,华南 South,重庆市 Chongqing,其他 Others,3539,29.57,106.55,重庆医药上海药品销售有限责任公司,重庆市 Chongqing,重庆市,Cancel,商业公司,No,3,朱虹,Tier III,取消
+重庆医药新特药品有限公司,No,DDI,华南 South,华南 South,重庆市 Chongqing,其他 Others,152,29.57,106.55,重庆医药新特药品有限公司,重庆市 Chongqing,重庆市,Successful-ongoing,商业公司,Yes,3,朱虹,Tier II,有效
+重庆医药新特药品有限公司沙坪坝药房,No,DDI,华南 South,华南 South,重庆市 Chongqing,其他 Others,8065,29.57,106.55,重庆医药新特药品有限公司沙坪坝药房,重庆市 Chongqing,重庆市,Successful-validation,药店,No,3,朱虹,Tier III,有效
+重庆医药股份有限公司和平批发分公司,No,Cancel,华南 South,华南 South,重庆市 Chongqing,其他 Others,3535,29.57,106.55,重庆医药股份有限公司和平批发分公司,重庆市 Chongqing,重庆市,Cancel,商业公司,Yes,3,朱虹,Tier III,取消
+重庆医药股份有限公司药品器械分公司,No,Cancel,华南 South,华南 South,重庆市 Chongqing,其他 Others,3537,29.57,106.55,重庆医药股份有限公司药品器械分公司,重庆市 Chongqing,重庆市,Cancel,商业公司,No,3,朱虹,Tier III,取消
+重庆医药集团医贸药品有限公司,No,DDI,华南 South,华南 South,重庆市 Chongqing,其他 Others,153,29.57,106.55,重庆医药集团医贸药品有限公司,重庆市 Chongqing,重庆市,Successful-ongoing,商业公司,Yes,3,朱虹,Tier III,有效
+重庆华博军卫医药股份有限公司,No,No DDI,华南 South,华南 South,重庆市 Chongqing,其他 Others,3517,29.57,106.55,重庆华博军卫医药股份有限公司,重庆市 Chongqing,重庆市,Military/Monthly/Excel,商业公司,Yes,3,朱虹,Tier III,有效
+重庆和平药房连锁有限责任公司医药保健品分公司,No,Cancel,华南 South,华南 South,重庆市 Chongqing,其他 Others,7578,29.57,106.55,重庆和平药房连锁有限责任公司医药保健品分公司,重庆市 Chongqing,重庆市,Cancel,药店,Yes,3,朱虹,Tier III,取消
+重庆科渝药品经营有限责任公司,Yes,DDI,华南 South,华南 South,重庆市 Chongqing,其他 Others,4272,29.57,106.55,重庆科渝药品经营有限责任公司,重庆市 Chongqing,重庆市,Successful-ongoing,商业公司,No,3,朱虹,Tier III,有效
+重庆长圣医药有限公司,Yes,DDI,华南 South,华南 South,重庆市 Chongqing,其他 Others,3515,29.57,106.55,重庆长圣医药有限公司,重庆市 Chongqing,重庆市,Successful-ongoing,商业公司,No,3,朱虹,Tier III,有效
+金华市医药有限公司,No,Cancel,华东 East,华东 East,金华市 Jinhua,其他 Others,100,29.08,119.65,金华市医药有限公司,浙江省 Zhejiang,浙江省,Cancel,商业公司,No,31,陈磊,Tier II,取消
+金华英特药业有限公司,No,DDI,华东 East,华东 East,金华市 Jinhua,其他 Others,6121,29.08,119.65,金华英特药业有限公司,浙江省 Zhejiang,浙江省,Successful-ongoing,商业公司,No,31,陈磊,Tier III,有效
+银川市兴庆区欣美康大药房,No,DDI,华东 East,华北 North,银川市 Yinchuan,其他 Others,7598,38.47,106.28,银川市兴庆区欣美康大药房,宁夏区 Ningxia,宁夏区,Successful-validation,药店,No,20,王晓理,Tier III,有效
+长春九州通医药有限公司,No,DDI,华北 North,华北 North,长春市 Changchun,九州通 Jointown,8922,43.9,125.32,长春九州通医药有限公司,吉林省 Jilin,吉林省,Successful-ongoing,商业公司,No,15,李志群,Tier III,有效
+长春大格大药房有限公司,No,DDI,华北 North,华北 North,长春市 Changchun,华润 China Resources,7571,43.9,125.32,长春大格大药房有限公司,吉林省 Jilin,吉林省,Successful-ongoing,药店,No,15,李志群,Tier III,有效
+阿克苏九州通医药有限公司,No,DDI,华东 East,华北 North,阿克苏地区 Aksu,九州通 Jointown,242,41.168779,80.260605,阿克苏九州通医药有限公司,新疆区 Xinjiang,新疆区,Successful-ongoing,商业公司,Yes,28,薛岩,Tier III,有效
+陕西医药控股集团派昂医药有限责任公司,No,DDI,华东 East,华北 North,西安市 Xi'an,其他 Others,2995,34.27,108.93,陕西医药控股集团派昂医药有限责任公司,陕西省 Shaanxi,陕西省,Successful-ongoing,商业公司,Yes,25,王晓理,Tier III,有效
+陕西天士力医药有限公司,No,Cancel,华东 East,华北 North,西安市 Xi'an,其他 Others,48,34.27,108.93,陕西天士力医药有限公司,陕西省 Shaanxi,陕西省,Cancel,商业公司,Yes,25,王晓理,Tier III,取消
+陕西恒庆医药有限公司,No,Cancel,华东 East,华北 North,西安市 Xi'an,其他 Others,2401,34.27,108.93,陕西恒庆医药有限公司,陕西省 Shaanxi,陕西省,Cancel,商业公司,Yes,25,王晓理,Tier III,取消
+陕西省汉中市医药总公司,No,DDI,华东 East,华北 North,汉中市 Hanzhong,其他 Others,2435,33.07,107.02,陕西省汉中市医药总公司,陕西省 Shaanxi,陕西省,Successful-ongoing,商业公司,No,25,王晓理,Tier III,有效
+陕西科信医药有限责任公司,No,DDI,华东 East,华北 North,西安市 Xi'an,其他 Others,46,34.27,108.93,陕西科信医药有限责任公司,陕西省 Shaanxi,陕西省,Successful-ongoing,商业公司,No,25,王晓理,Tier II,有效
+青岛上药国风医药有限公司,No,DDI,华东 East,华东 East,青岛市 Qingdao,上药 Shanghai Pharma,86,36.07,120.38,青岛上药国风医药有限公司,山东省 Shandong,山东省,Successful-ongoing,商业公司,Yes,23,赵树峰,Tier II,有效
+青岛九州通医药有限公司,No,DDI,华东 East,华东 East,青岛市 Qingdao,九州通 Jointown,2202,36.07,120.38,青岛九州通医药有限公司,山东省 Shandong,山东省,Successful-ongoing,商业公司,No,23,赵树峰,Tier III,有效
+青岛华仁新特药有限公司,No,Cancel,华东 East,华东 East,青岛市 Qingdao,其他 Others,5430,36.07,120.38,青岛华仁新特药有限公司,山东省 Shandong,山东省,Cancel,商业公司,Yes,23,赵树峰,Tier III,取消
+青岛国风金百合医药销售有限责任公司,No,Cancel,华东 East,华东 East,青岛市 Qingdao,上药 Shanghai Pharma,2200,36.07,120.38,青岛国风金百合医药销售有限责任公司,山东省 Shandong,山东省,Cancel,商业公司,Yes,23,赵树峰,Tier III,取消
+青岛惠友大药房有限责任公司,No,DDI,华东 East,华东 East,青岛市 Qingdao,其他 Others,10031,36.07,120.38,青岛惠友大药房有限责任公司,山东省 Shandong,山东省,Follow-up,药店,No,23,赵树峰,Tier III,有效
+青岛惠聚成医药有限公司,No,Cancel,华东 East,华东 East,青岛市 Qingdao,其他 Others,87,36.07,120.38,青岛惠聚成医药有限公司,山东省 Shandong,山东省,Plan to cancel,药店,Yes,23,赵树峰,Tier II,有效
+青岛海王银河医药有限公司,No,Cancel,华东 East,华东 East,青岛市 Qingdao,其他 Others,2201,36.07,120.38,青岛海王银河医药有限公司,山东省 Shandong,山东省,Cancel,商业公司,Yes,23,赵树峰,Tier III,取消
+青岛百洋健康药房连锁有限公司,No,DDI,华东 East,华东 East,青岛市 Qingdao,其他 Others,9876,36.07,120.38,青岛百洋健康药房连锁有限公司,山东省 Shandong,山东省,Follow-up,商业公司,No,23,赵树峰,Tier III,有效
+青岛百洋医药科技有限公司,No,DDI,华东 East,华东 East,青岛市 Qingdao,其他 Others,2195,36.07,120.38,青岛百洋医药科技有限公司,山东省 Shandong,山东省,Successful-ongoing,商业公司,Yes,23,赵树峰,Tier III,有效
+青岛美邦医药有限公司,No,Cancel,华东 East,华东 East,青岛市 Qingdao,其他 Others,2206,36.07,120.38,青岛美邦医药有限公司,山东省 Shandong,山东省,Cancel,商业公司,No,23,赵树峰,Tier III,取消
+青海省中西药业有限责任公司,No,Cancel,华东 East,华北 North,西宁市 Xining,其他 Others,40,36.62,101.78,青海省中西药业有限责任公司,青海省 Qinghai,青海省,Cancel,商业公司,No,21,王晓理,Tier III,取消
+马鞍山医药有限公司,No,DDI,华东 East,华东 East,马鞍山市 Maanshan,其他 Others,1989,31.7,118.5,马鞍山医药有限公司,安徽省 Anhui,安徽省,Successful-ongoing,商业公司,No,1,殷波,Tier III,有效
+驻马店市天中医药有限公司,No,Cancel,华东 East,华东 East,驻马店市 Zhumadian,其他 Others,3570,32.98,114.02,驻马店市天中医药有限公司,河南省 Henan,河南省,Cancel,商业公司,No,12,李娟,Tier III,取消
+鹭燕(福建)药业股份有限公司,No,DDI,华东 East,华东 East,厦门市 Xiamen,其他 Others,67,24.48,118.08,鹭燕(福建)药业股份有限公司,福建省 Fujian,福建省,Successful-ongoing,商业公司,Yes,4,何秀彬,Tier II,有效
+鹭燕(福建)药业股份有限公司湖里门市部,No,DDI,华东 East,华东 East,厦门市 Xiamen,其他 Others,7582,24.48,118.08,鹭燕(福建)药业股份有限公司湖里门市部,福建省 Fujian,福建省,Successful-ongoing,药店,Yes,4,何秀彬,Tier III,有效
+黑龙江九州通医药有限公司,No,DDI,华北 North,华北 North,哈尔滨市 Harbin,九州通 Jointown,9918,45.8,126.53,黑龙江九州通医药有限公司,黑龙江 Heilongjiang,黑龙江,Successful-ongoing,商业公司,Yes,10,徐建超,Tier III,有效
+黑龙江省中瑞医药有限公司,No,Cancel,华北 North,华北 North,哈尔滨市 Harbin,其他 Others,1400,45.8,126.53,黑龙江省中瑞医药有限公司,黑龙江 Heilongjiang,黑龙江,Cancel,商业公司,No,10,徐建超,Tier III,取消
+黑龙江省国龙医药有限公司,No,DDI,华北 North,华北 North,哈尔滨市 Harbin,其他 Others,1343,45.8,126.53,黑龙江省国龙医药有限公司,黑龙江 Heilongjiang,黑龙江,Successful-ongoing,商业公司,No,10,徐建超,Tier III,有效
+齐齐哈尔市光大药品有限公司,No,Cancel,华北 North,华北 North,齐齐哈尔市 Qiqihar,其他 Others,2175,47.33,123.95,齐齐哈尔市光大药品有限公司,黑龙江 Heilongjiang,黑龙江,Cancel,商业公司,No,10,徐建超,Tier III,取消
+,,,华东 East,华东 East,温州市 Wenzhou,,3429,28,120.7,华东医药温州有限公司,浙江省 Zhejiang,浙江省,,,,31,,,
+,,,华北 North,华北 North,北京市 Beijing,,9288,39.9,116.4,默克雪兰诺（北京）医药经营有限公司,北京市 Beijing,北京市,,,,2,,,
